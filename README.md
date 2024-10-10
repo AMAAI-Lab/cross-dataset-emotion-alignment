@@ -8,5 +8,5 @@
 </div>
 
 
-In this repository, we present the code used to leverage Large Language Model (LLM) embeddings for music emotion recognition across multiple datasets. The approach involves computing LLM embeddings for emotion labels, clustering similar labels across datasets, and mapping music features (MERT) to the LLM embedding space. We also introduce alignment regularization to better dissociate different clusters, improving generalization to unseen datasets for zero shot classification.\
+In this repository, we present the code used to leverage Large Language Model (LLM) embeddings for music emotion recognition across multiple datasets. The approach involves computing LLM embeddings for emotion labels, clustering similar labels across datasets, and mapping music features (MERT) to the LLM embedding space. We also introduce alignment regularization to better dissociate different clusters, improving generalization to unseen datasets for zero shot classification.
 
