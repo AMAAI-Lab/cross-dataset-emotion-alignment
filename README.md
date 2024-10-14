@@ -22,6 +22,7 @@ This repository contains the implementation of our novel approach to music emoti
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Data Preparation](#data-preparation)
+  - [Training](#training)
   - [Evaluation](#evaluation)
   - [Results](#results)
     - [Segment-Level Results](#segment-level-results)
@@ -32,21 +33,21 @@ This repository contains the implementation of our novel approach to music emoti
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/llm-music-emotion.git
-   cd llm-music-emotion
+   git clone https://github.com/AMAAI-Lab/cross-dataset-emotion-alignment.git
+   cd cross-dataset-emotion-alignment
    ```
 
-2. Set up a virtual environment:
+2. Set up a Conda environment:
 
    ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+   conda env create -f environment.yaml
+   conda activate cross-dataset-emotion-alignment
    ```
 
-3. Install dependencies:
+3. Activate the environment:
 
    ```bash
-   pip install -r requirements.txt
+   conda activate llm-music-emotion
    ```
 
 ## Data Preparation
