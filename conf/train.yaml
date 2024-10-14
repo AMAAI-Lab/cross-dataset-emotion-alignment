@@ -1,0 +1,29 @@
+# @package _global_
+defaults:
+  - _self_
+  - trainer: ddp
+  - model: triplet_multi
+  - data: multi
+  - callbacks: default
+  - logger: wandb
+  - paths: default
+  - hydra: default
+  - extras: default
+  - loss_type: triplet
+
+tags: [cluster]
+
+model:
+  net: attention
+
+task_name: "train"
+
+trainer:
+  max_epochs: 100
+
+load_ckpt: true
+ckpt_path: null
+version: ???
+
+train: true
+seed: 42

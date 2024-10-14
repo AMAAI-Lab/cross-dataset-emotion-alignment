@@ -1,0 +1,34 @@
+# @package _global_
+defaults:
+  - _self_
+  - trainer: ddp
+  - model: triplet_multi
+  - data: multi
+  - callbacks: default
+  - logger: wandb
+  - paths: default
+  - hydra: default
+  - extras: default
+  - loss_type: triplet
+
+tags: [cluster]
+
+ckpt_path: null
+version: ???
+
+mode: test
+train: false
+seed: 42
+
+task_name: "eval"
+
+# wandb:
+#   project: "YourProjectName"
+#   entity: "YourEntityName"
+#   artifact: "YourArtifactName:version"
+
+wandb:
+  project: "music-mood-classification"
+  entity: "liurenhang"
+artifact: "model-ulk1v8du:v1"
+#

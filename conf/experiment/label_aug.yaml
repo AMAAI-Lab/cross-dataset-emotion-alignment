@@ -1,0 +1,14 @@
+# @package _global_
+data:
+  datasets_info:
+    mtg:
+      train:
+        label_features_path: resources/label_expanded_jamendo.npz
+      val:
+        label_features_path: resources/label_expanded_jamendo.npz
+      test:
+        label_features_path: resources/label_expanded_jamendo.npz
+    CAL500:
+      label_features_path: resources/label_expanded_CAL500.npz
+    emotify:
+      label_features_path: resources/label_expanded_emotify.npz

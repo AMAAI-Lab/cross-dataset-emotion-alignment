@@ -1,0 +1,3 @@
+_target_: ${dataset_target}
+label_features_path: resources/label_features.npz
+mode: ${mode}

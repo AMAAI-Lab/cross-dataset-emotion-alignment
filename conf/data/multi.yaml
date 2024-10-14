@@ -1,0 +1,14 @@
+defaults:
+  - default
+  - dataset@datasets_info.mtg.train: mtg_train
+  - dataset@datasets_info.mtg.val: mtg_val
+  - dataset@datasets_info.mtg.test: mtg_test
+  - dataset@datasets_info.CAL500: CAL500
+  - dataset@datasets_info.emotify: emotify
+
+_target_: data.segmented_datamodule.CombinedDataModule
+
+train_split_ratio: 0.8
+val_split_ratio: 0.1
+combine_train_datasets: ["mtg", "CAL500"]
+train_combine_mode: max_size_cycle

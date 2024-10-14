@@ -1,0 +1,7 @@
+_target_: ${dataset_target}
+source_path: resources/input/emotify_source.npy
+index_path: resources/input/emotify_index.npy
+metadata_path: resources/emotify_metadata_updated.json
+label_features_path: resources/label_features_emotify.npz
+mode: ${mode}
+upsample: 3

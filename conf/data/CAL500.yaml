@@ -1,0 +1,9 @@
+defaults:
+  - default
+  - dataset: CAL500
+  - _self_
+
+_target_: data.segmented_datamodule.SplitDataModule
+
+dataset:
+  _target_: ${dataset_target}

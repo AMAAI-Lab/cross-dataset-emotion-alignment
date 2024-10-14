@@ -1,0 +1,4926 @@
+{
+    "0": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/belle_and_sebastian-like_dylan_in_the_movies.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "carefree, lighthearted",
+            "tender, soft",
+            "emotional, passionate"
+        ]
+    },
+    "1": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/stereolab-cybeles_reverie.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "loving, romantic",
+            "carefree, lighthearted",
+            "happy",
+            "positive, optimistic"
+        ]
+    },
+    "2": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/cake-perhaps,_perhaps,_perhaps.wav",
+        "mood/theme": [
+            "sad",
+            "arousing, awakening",
+            "powerful, strong",
+            "pleasant, comfortable",
+            "tender, soft"
+        ]
+    },
+    "3": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/bots-take_the_power_back.wav",
+        "mood/theme": [
+            "bizarre, weird",
+            "happy",
+            "pleasant, comfortable",
+            "sad",
+            "arousing, awakening"
+        ]
+    },
+    "4": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/pearl_jam-yellow_ledbetter.wav",
+        "mood/theme": [
+            "emotional, passionate",
+            "powerful, strong",
+            "sad",
+            "exciting, thrilling",
+            "calming, soothing"
+        ]
+    },
+    "5": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/air-sexy_boy.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "tender, soft",
+            "carefree, lighthearted",
+            "bizarre, weird",
+            "pleasant, comfortable"
+        ]
+    },
+    "6": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/mazzy_star-fade_into_you.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "sad",
+            "tender, soft",
+            "pleasant, comfortable",
+            "emotional, passionate"
+        ]
+    },
+    "7": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/bob_marley_and_the_wailers-three_little_birds.wav",
+        "mood/theme": [
+            "positive, optimistic",
+            "happy",
+            "calming, soothing",
+            "pleasant, comfortable",
+            "cheerful, festive"
+        ]
+    },
+    "8": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/turtles-elenore.wav",
+        "mood/theme": [
+            "happy",
+            "arousing, awakening",
+            "pleasant, comfortable",
+            "cheerful, festive",
+            "positive, optimistic"
+        ]
+    },
+    "9": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/yes-leave_it.wav",
+        "mood/theme": [
+            "happy"
+        ]
+    },
+    "10": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/spencer_davis_group-gimme_some_lovin.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "positive, optimistic",
+            "happy",
+            "arousing, awakening",
+            "emotional, passionate"
+        ]
+    },
+    "11": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/diana_ross_and_the_supremes-where_did_our_love_go.wav",
+        "mood/theme": [
+            "tender, soft",
+            "touching, loving",
+            "pleasant, comfortable",
+            "loving, romantic",
+            "happy"
+        ]
+    },
+    "12": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/introspekt-tbd.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "calming, soothing",
+            "arousing, awakening",
+            "powerful, strong",
+            "happy"
+        ]
+    },
+    "13": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/liz_phair-supernova.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "angry, aggressive",
+            "powerful, strong",
+            "pleasant, comfortable",
+            "exciting, thrilling"
+        ]
+    },
+    "14": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/rick_james-super_freak.wav",
+        "mood/theme": [
+            "happy",
+            "exciting, thrilling",
+            "arousing, awakening",
+            "carefree, lighthearted",
+            "cheerful, festive"
+        ]
+    },
+    "15": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/white_stripes-hotel_yorba.wav",
+        "mood/theme": [
+            "happy",
+            "cheerful, festive",
+            "carefree, lighthearted",
+            "positive, optimistic",
+            "light, playful"
+        ]
+    },
+    "16": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/marvelettes-please_mr._postman.wav",
+        "mood/theme": [
+            "emotional, passionate",
+            "tender, soft",
+            "sad",
+            "calming, soothing",
+            "pleasant, comfortable"
+        ]
+    },
+    "17": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/antonio_carlos_jobim-wave.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "light, playful",
+            "happy",
+            "calming, soothing",
+            "cheerful, festive"
+        ]
+    },
+    "18": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/sinad_oconnor-no_mans_woman.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "happy",
+            "tender, soft",
+            "loving, romantic",
+            "emotional, passionate"
+        ]
+    },
+    "19": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/chet_baker-these_foolish_things.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "carefree, lighthearted",
+            "emotional, passionate",
+            "tender, soft"
+        ]
+    },
+    "20": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/strawbs-new_world.wav",
+        "mood/theme": [
+            "angry, aggressive",
+            "emotional, passionate",
+            "sad",
+            "powerful, strong",
+            "exciting, thrilling"
+        ]
+    },
+    "21": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/brenton_wood-lovey_dovey_kind_of_love.wav",
+        "mood/theme": [
+            "happy",
+            "pleasant, comfortable",
+            "positive, optimistic",
+            "loving, romantic",
+            "carefree, lighthearted"
+        ]
+    },
+    "22": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/jefferson_airplane-somebody_to_love.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "arousing, awakening",
+            "exciting, thrilling",
+            "cheerful, festive",
+            "emotional, passionate"
+        ]
+    },
+    "23": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/christina_aguilera-genie_in_a_bottle.wav",
+        "mood/theme": [
+            "emotional, passionate",
+            "happy",
+            "cheerful, festive",
+            "powerful, strong",
+            "loving, romantic"
+        ]
+    },
+    "24": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/psychetropic-dead_slow_day.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "bizarre, weird",
+            "tender, soft",
+            "positive, optimistic"
+        ]
+    },
+    "25": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/atomic_opera-watergrave.wav",
+        "mood/theme": [
+            "sad",
+            "emotional, passionate",
+            "calming, soothing",
+            "pleasant, comfortable",
+            "powerful, strong"
+        ]
+    },
+    "26": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/count_basie-lester_leaps_in.wav",
+        "mood/theme": [
+            "positive, optimistic",
+            "happy",
+            "pleasant, comfortable",
+            "cheerful, festive",
+            "calming, soothing"
+        ]
+    },
+    "27": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/fleetwood_mac-say_you_love_me.wav",
+        "mood/theme": [
+            "happy",
+            "calming, soothing",
+            "pleasant, comfortable",
+            "cheerful, festive",
+            "tender, soft"
+        ]
+    },
+    "28": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/black_sabbath-black_sabbath.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "sad",
+            "exciting, thrilling",
+            "angry, aggressive",
+            "bizarre, weird"
+        ]
+    },
+    "29": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/violent_femmes-blister_in_the_sun.wav",
+        "mood/theme": [
+            "bizarre, weird",
+            "happy",
+            "pleasant, comfortable",
+            "cheerful, festive",
+            "arousing, awakening"
+        ]
+    },
+    "30": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/yakshi-chandra.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "exciting, thrilling",
+            "sad",
+            "tender, soft"
+        ]
+    },
+    "31": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/smiths-how_soon_is_now.wav",
+        "mood/theme": [
+            "exciting, thrilling",
+            "arousing, awakening",
+            "powerful, strong",
+            "emotional, passionate",
+            "angry, aggressive"
+        ]
+    },
+    "32": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/ronettes-walking_in_the_rain.wav",
+        "mood/theme": [
+            "loving, romantic",
+            "emotional, passionate",
+            "cheerful, festive",
+            "touching, loving",
+            "tender, soft"
+        ]
+    },
+    "33": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/macy_gray-i_try.wav",
+        "mood/theme": [
+            "emotional, passionate",
+            "touching, loving",
+            "tender, soft",
+            "loving, romantic",
+            "calming, soothing"
+        ]
+    },
+    "34": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/cheap_trick-dream_police.wav",
+        "mood/theme": [
+            "exciting, thrilling",
+            "cheerful, festive",
+            "happy",
+            "arousing, awakening",
+            "powerful, strong"
+        ]
+    },
+    "35": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/busta_rhymes-woo_hah_got_you_all_in_check.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "angry, aggressive",
+            "arousing, awakening",
+            "exciting, thrilling",
+            "light, playful"
+        ]
+    },
+    "36": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/bread-if.wav",
+        "mood/theme": [
+            "tender, soft",
+            "calming, soothing",
+            "loving, romantic",
+            "emotional, passionate",
+            "pleasant, comfortable"
+        ]
+    },
+    "37": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/built_to_spill-i_would_hurt_a_fly.wav",
+        "mood/theme": [
+            "emotional, passionate",
+            "sad",
+            "powerful, strong",
+            "exciting, thrilling",
+            "arousing, awakening"
+        ]
+    },
+    "38": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/devo-girl_u_want.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "emotional, passionate",
+            "exciting, thrilling",
+            "positive, optimistic",
+            "happy"
+        ]
+    },
+    "39": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/cheryl_ann_fulton-marsh_of_rhuddlan.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "tender, soft",
+            "calming, soothing",
+            "loving, romantic",
+            "happy"
+        ]
+    },
+    "40": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/sweet-fox_on_the_run.wav",
+        "mood/theme": [
+            "happy",
+            "cheerful, festive",
+            "exciting, thrilling",
+            "powerful, strong",
+            "carefree, lighthearted"
+        ]
+    },
+    "41": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/anup-life_glides.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "cheerful, festive",
+            "exciting, thrilling",
+            "positive, optimistic",
+            "happy"
+        ]
+    },
+    "42": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/stooges-dirt.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "powerful, strong",
+            "sad",
+            "exciting, thrilling",
+            "angry, aggressive"
+        ]
+    },
+    "43": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/doobie_brothers-china_grove.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "powerful, strong",
+            "cheerful, festive",
+            "positive, optimistic",
+            "happy"
+        ]
+    },
+    "44": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/jeff_buckley-last_goodbye.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "emotional, passionate",
+            "calming, soothing",
+            "loving, romantic",
+            "positive, optimistic"
+        ]
+    },
+    "45": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/alanis_morissette-thank_u.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "emotional, passionate",
+            "sad",
+            "calming, soothing",
+            "positive, optimistic"
+        ]
+    },
+    "46": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/barry_manilow-mandy.wav",
+        "mood/theme": [
+            "loving, romantic",
+            "emotional, passionate",
+            "touching, loving",
+            "pleasant, comfortable",
+            "tender, soft"
+        ]
+    },
+    "47": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/blondie-rapture.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "bizarre, weird",
+            "arousing, awakening",
+            "cheerful, festive",
+            "tender, soft"
+        ]
+    },
+    "48": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/c_layne-devil_and_the_woman.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "tender, soft",
+            "pleasant, comfortable",
+            "emotional, passionate",
+            "sad"
+        ]
+    },
+    "49": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/roxy_music-love_is_the_drug.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "cheerful, festive",
+            "powerful, strong",
+            "emotional, passionate",
+            "loving, romantic"
+        ]
+    },
+    "50": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/eagles-tequila_sunrise.wav",
+        "mood/theme": [
+            "tender, soft",
+            "calming, soothing",
+            "pleasant, comfortable",
+            "touching, loving",
+            "sad"
+        ]
+    },
+    "51": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/adverts-gary_gilmores_eyes.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "powerful, strong",
+            "angry, aggressive",
+            "exciting, thrilling",
+            "bizarre, weird"
+        ]
+    },
+    "52": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/big_star-in_the_street.wav",
+        "mood/theme": [
+            "happy",
+            "pleasant, comfortable",
+            "light, playful",
+            "cheerful, festive",
+            "carefree, lighthearted"
+        ]
+    },
+    "53": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/hall_and_oates-private_eyes.wav",
+        "mood/theme": [
+            "tender, soft",
+            "emotional, passionate",
+            "pleasant, comfortable",
+            "loving, romantic",
+            "calming, soothing"
+        ]
+    },
+    "54": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/bobby_brown-my_prerogative.wav",
+        "mood/theme": [
+            "exciting, thrilling",
+            "positive, optimistic",
+            "happy",
+            "arousing, awakening",
+            "pleasant, comfortable"
+        ]
+    },
+    "55": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/elton_john-tiny_dancer.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "tender, soft",
+            "touching, loving",
+            "happy"
+        ]
+    },
+    "56": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/rocket_city_riot-mine_tonite.wav",
+        "mood/theme": [
+            "exciting, thrilling",
+            "arousing, awakening",
+            "powerful, strong",
+            "positive, optimistic",
+            "emotional, passionate"
+        ]
+    },
+    "57": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/processor-nibtal_7.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "powerful, strong",
+            "angry, aggressive",
+            "exciting, thrilling",
+            "sad"
+        ]
+    },
+    "58": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/yo_la_tengo-tom_courtenay.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "emotional, passionate",
+            "happy",
+            "calming, soothing",
+            "pleasant, comfortable"
+        ]
+    },
+    "59": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/bay_city_rollers-saturday_night.wav",
+        "mood/theme": [
+            "cheerful, festive",
+            "positive, optimistic",
+            "happy",
+            "light, playful",
+            "carefree, lighthearted"
+        ]
+    },
+    "60": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/guided_by_voices-kicker_of_elves.wav",
+        "mood/theme": [
+            "bizarre, weird",
+            "sad",
+            "carefree, lighthearted",
+            "arousing, awakening",
+            "light, playful"
+        ]
+    },
+    "61": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/smokey_robinson-cruisin.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "calming, soothing",
+            "touching, loving",
+            "tender, soft",
+            "loving, romantic"
+        ]
+    },
+    "62": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/u2-hold_me_thrill_me_kiss_me_kill_me.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "arousing, awakening",
+            "exciting, thrilling",
+            "pleasant, comfortable",
+            "emotional, passionate"
+        ]
+    },
+    "63": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/ani_difranco-crime_for_crime.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "emotional, passionate",
+            "sad",
+            "angry, aggressive",
+            "arousing, awakening"
+        ]
+    },
+    "64": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/black_crowes-thorn_in_my_pride.wav",
+        "mood/theme": [
+            "happy"
+        ]
+    },
+    "65": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/aerobic_jonquil-sweat_machine.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "tender, soft",
+            "powerful, strong",
+            "emotional, passionate"
+        ]
+    },
+    "66": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/rubn_gonzlez-cumbanchero.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "cheerful, festive",
+            "powerful, strong",
+            "exciting, thrilling",
+            "emotional, passionate"
+        ]
+    },
+    "67": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/king_crimson-thela_hun_ginjeet.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "arousing, awakening",
+            "angry, aggressive",
+            "bizarre, weird",
+            "exciting, thrilling"
+        ]
+    },
+    "68": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/def_leppard-pour_some_sugar_on_me.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "arousing, awakening",
+            "exciting, thrilling",
+            "cheerful, festive",
+            "emotional, passionate"
+        ]
+    },
+    "69": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/sting-big_lie_small_world.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "touching, loving",
+            "tender, soft",
+            "sad",
+            "loving, romantic"
+        ]
+    },
+    "70": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/carly_simon-youre_so_vain.wav",
+        "mood/theme": [
+            "emotional, passionate",
+            "powerful, strong",
+            "arousing, awakening",
+            "sad",
+            "pleasant, comfortable"
+        ]
+    },
+    "71": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/2pac-trapped.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "angry, aggressive",
+            "emotional, passionate",
+            "arousing, awakening",
+            "exciting, thrilling"
+        ]
+    },
+    "72": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/stevie_ray_vaughan-pride_and_joy.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "powerful, strong",
+            "happy",
+            "loving, romantic",
+            "carefree, lighthearted"
+        ]
+    },
+    "73": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/bo_diddley-you_cant_judge_a_book_by_its_cover.wav",
+        "mood/theme": [
+            "happy",
+            "arousing, awakening",
+            "pleasant, comfortable",
+            "carefree, lighthearted",
+            "light, playful"
+        ]
+    },
+    "74": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/wes_montgomery-bumpin.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "calming, soothing",
+            "tender, soft",
+            "sad",
+            "emotional, passionate"
+        ]
+    },
+    "75": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/kiss-deuce.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "powerful, strong",
+            "exciting, thrilling",
+            "emotional, passionate",
+            "angry, aggressive"
+        ]
+    },
+    "76": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/boogie_down_productions-the_bridge_is_over.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "arousing, awakening",
+            "exciting, thrilling",
+            "angry, aggressive",
+            "sad"
+        ]
+    },
+    "77": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/bonnie_tyler-total_eclipse_of_the_heart.wav",
+        "mood/theme": [
+            "emotional, passionate",
+            "sad",
+            "touching, loving",
+            "powerful, strong",
+            "loving, romantic"
+        ]
+    },
+    "78": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/buffalo_springfield-mr._soul.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "powerful, strong",
+            "exciting, thrilling",
+            "happy",
+            "calming, soothing"
+        ]
+    },
+    "79": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/four_stones-brilliant_day_eine_kleine_mix.wav",
+        "mood/theme": [
+            "sad",
+            "calming, soothing",
+            "tender, soft",
+            "pleasant, comfortable",
+            "carefree, lighthearted"
+        ]
+    },
+    "80": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/sir_mix-a-lot-baby_got_back.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "powerful, strong",
+            "exciting, thrilling",
+            "light, playful",
+            "angry, aggressive"
+        ]
+    },
+    "81": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/charles_mingus-mood_indigo.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "tender, soft",
+            "sad",
+            "pleasant, comfortable",
+            "loving, romantic"
+        ]
+    },
+    "82": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/memories_of_tomorrow-transcend_fate_of_a_dj.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "cheerful, festive",
+            "exciting, thrilling",
+            "powerful, strong",
+            "positive, optimistic"
+        ]
+    },
+    "83": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/curtis_mayfield-move_on_up.wav",
+        "mood/theme": [
+            "happy",
+            "arousing, awakening",
+            "pleasant, comfortable",
+            "positive, optimistic",
+            "cheerful, festive"
+        ]
+    },
+    "84": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/propellerheads-take_california.wav",
+        "mood/theme": [
+            "happy",
+            "arousing, awakening",
+            "powerful, strong",
+            "exciting, thrilling",
+            "cheerful, festive"
+        ]
+    },
+    "85": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/wicked_boy-pressure.wav",
+        "mood/theme": [
+            "sad",
+            "powerful, strong",
+            "arousing, awakening",
+            "exciting, thrilling",
+            "bizarre, weird"
+        ]
+    },
+    "86": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/arthur_alexander-you_dont_care.wav",
+        "mood/theme": [
+            "sad",
+            "calming, soothing",
+            "pleasant, comfortable",
+            "tender, soft",
+            "powerful, strong"
+        ]
+    },
+    "87": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/psychedelic_furs-love_my_way.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "calming, soothing",
+            "sad",
+            "arousing, awakening",
+            "tender, soft"
+        ]
+    },
+    "88": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/gin_blossoms-hey_jealousy.wav",
+        "mood/theme": [
+            "sad",
+            "arousing, awakening",
+            "loving, romantic",
+            "emotional, passionate",
+            "powerful, strong"
+        ]
+    },
+    "90": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/faith_hill-lets_make_love.wav",
+        "mood/theme": [
+            "loving, romantic",
+            "touching, loving",
+            "tender, soft",
+            "emotional, passionate",
+            "powerful, strong"
+        ]
+    },
+    "91": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/ramones-i_just_want_to_have_something_to_do.wav",
+        "mood/theme": [
+            "happy",
+            "arousing, awakening",
+            "powerful, strong",
+            "cheerful, festive",
+            "carefree, lighthearted"
+        ]
+    },
+    "92": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/rufus_wainwright-cigarettes_and_chocolate_milk.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "calming, soothing",
+            "tender, soft",
+            "positive, optimistic",
+            "cheerful, festive"
+        ]
+    },
+    "93": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/aimee_mann-wise_up.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "tender, soft",
+            "emotional, passionate",
+            "pleasant, comfortable",
+            "sad"
+        ]
+    },
+    "94": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/spinecar-stay.wav",
+        "mood/theme": [
+            "angry, aggressive",
+            "exciting, thrilling",
+            "arousing, awakening",
+            "powerful, strong",
+            "emotional, passionate"
+        ]
+    },
+    "95": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/brad_sucks-overreacting.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "sad",
+            "calming, soothing",
+            "happy",
+            "emotional, passionate"
+        ]
+    },
+    "96": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/billie_holiday-god_bless_the_child.wav",
+        "mood/theme": [
+            "tender, soft",
+            "calming, soothing",
+            "pleasant, comfortable",
+            "touching, loving",
+            "positive, optimistic"
+        ]
+    },
+    "97": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/pretenders-day_after_day.wav",
+        "mood/theme": [
+            "happy",
+            "pleasant, comfortable",
+            "carefree, lighthearted",
+            "emotional, passionate",
+            "light, playful"
+        ]
+    },
+    "98": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/kraftwerk-spacelab.wav",
+        "mood/theme": [
+            "exciting, thrilling",
+            "bizarre, weird",
+            "calming, soothing",
+            "arousing, awakening",
+            "pleasant, comfortable"
+        ]
+    },
+    "99": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/whitney_houston-how_will_i_know.wav",
+        "mood/theme": [
+            "loving, romantic",
+            "touching, loving",
+            "arousing, awakening",
+            "emotional, passionate",
+            "happy"
+        ]
+    },
+    "100": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/jackson_5-abc.wav",
+        "mood/theme": [
+            "happy",
+            "cheerful, festive",
+            "carefree, lighthearted",
+            "positive, optimistic",
+            "light, playful"
+        ]
+    },
+    "101": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/barenaked_ladies-its_all_been_done.wav",
+        "mood/theme": [
+            "happy"
+        ]
+    },
+    "102": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/glenn_miller-in_the_mood.wav",
+        "mood/theme": [
+            "happy",
+            "cheerful, festive",
+            "pleasant, comfortable",
+            "powerful, strong",
+            "emotional, passionate"
+        ]
+    },
+    "103": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/neil_young_and_crazy_horse-western_hero.wav",
+        "mood/theme": [
+            "sad",
+            "tender, soft",
+            "emotional, passionate",
+            "calming, soothing",
+            "pleasant, comfortable"
+        ]
+    },
+    "104": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/chantal_kreviazuk-surrounded.wav",
+        "mood/theme": [
+            "emotional, passionate",
+            "pleasant, comfortable",
+            "sad",
+            "tender, soft",
+            "calming, soothing"
+        ]
+    },
+    "105": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/chemical_brothers-setting_sun.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "exciting, thrilling",
+            "sad",
+            "bizarre, weird",
+            "arousing, awakening"
+        ]
+    },
+    "106": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/dr._dre-nuthin_but_a_g_thang.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "angry, aggressive",
+            "arousing, awakening",
+            "pleasant, comfortable",
+            "carefree, lighthearted"
+        ]
+    },
+    "107": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/troggs-wild_thing.wav",
+        "mood/theme": [
+            "happy",
+            "cheerful, festive",
+            "carefree, lighthearted",
+            "arousing, awakening",
+            "light, playful"
+        ]
+    },
+    "108": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/soulprint-crawlspace.wav",
+        "mood/theme": [
+            "angry, aggressive",
+            "powerful, strong",
+            "exciting, thrilling",
+            "emotional, passionate",
+            "arousing, awakening"
+        ]
+    },
+    "110": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/contours-do_you_love_me.wav",
+        "mood/theme": [
+            "happy",
+            "arousing, awakening",
+            "cheerful, festive",
+            "powerful, strong",
+            "carefree, lighthearted"
+        ]
+    },
+    "111": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/morrissey-everyday_is_like_sunday.wav",
+        "mood/theme": [
+            "tender, soft",
+            "emotional, passionate",
+            "calming, soothing",
+            "pleasant, comfortable",
+            "touching, loving"
+        ]
+    },
+    "112": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/hybris-hate.wav",
+        "mood/theme": [
+            "angry, aggressive",
+            "powerful, strong",
+            "sad",
+            "arousing, awakening",
+            "exciting, thrilling"
+        ]
+    },
+    "113": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/steppenwolf-born_to_be_wild.wav",
+        "mood/theme": [
+            "carefree, lighthearted",
+            "arousing, awakening",
+            "happy",
+            "cheerful, festive",
+            "exciting, thrilling"
+        ]
+    },
+    "114": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/police-every_little_thing_she_does_is_magic.wav",
+        "mood/theme": [
+            "cheerful, festive",
+            "happy",
+            "arousing, awakening",
+            "pleasant, comfortable",
+            "positive, optimistic"
+        ]
+    },
+    "115": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/dj_markitos-sunset_138_bpm_remix.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "happy",
+            "cheerful, festive",
+            "powerful, strong",
+            "pleasant, comfortable"
+        ]
+    },
+    "116": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/john_coltrane-giant_steps.wav",
+        "mood/theme": [
+            "exciting, thrilling",
+            "happy",
+            "arousing, awakening",
+            "pleasant, comfortable",
+            "cheerful, festive"
+        ]
+    },
+    "117": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/booker_t._and_the_mgs-time_is_tight.wav",
+        "mood/theme": [
+            "carefree, lighthearted",
+            "pleasant, comfortable",
+            "happy",
+            "light, playful",
+            "cheerful, festive"
+        ]
+    },
+    "118": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/mrdc-leaving.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "tender, soft",
+            "carefree, lighthearted",
+            "light, playful"
+        ]
+    },
+    "119": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/monoide-golden_key.wav",
+        "mood/theme": [
+            "happy",
+            "calming, soothing",
+            "powerful, strong",
+            "light, playful",
+            "pleasant, comfortable"
+        ]
+    },
+    "120": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/glen_bledsoe-p_pop.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "happy",
+            "bizarre, weird",
+            "pleasant, comfortable",
+            "carefree, lighthearted"
+        ]
+    },
+    "121": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/utopia_banished-by_mourning.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "arousing, awakening",
+            "angry, aggressive",
+            "sad",
+            "bizarre, weird"
+        ]
+    },
+    "122": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/bush-comedown.wav",
+        "mood/theme": [
+            "angry, aggressive",
+            "powerful, strong",
+            "sad",
+            "arousing, awakening",
+            "exciting, thrilling"
+        ]
+    },
+    "123": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/rolling_stones-little_by_little.wav",
+        "mood/theme": [
+            "carefree, lighthearted",
+            "cheerful, festive",
+            "happy",
+            "arousing, awakening",
+            "positive, optimistic"
+        ]
+    },
+    "124": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/beautiful_south-one_last_love_song.wav",
+        "mood/theme": [
+            "sad",
+            "calming, soothing",
+            "tender, soft",
+            "emotional, passionate",
+            "pleasant, comfortable"
+        ]
+    },
+    "125": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/eric_clapton-wonderful_tonight.wav",
+        "mood/theme": [
+            "loving, romantic",
+            "calming, soothing",
+            "tender, soft",
+            "emotional, passionate",
+            "touching, loving"
+        ]
+    },
+    "126": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/thelonious_monk-epistrophy.wav",
+        "mood/theme": [
+            "light, playful"
+        ]
+    },
+    "127": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/thin_lizzy-dont_believe_a_word.wav",
+        "mood/theme": [
+            "emotional, passionate",
+            "arousing, awakening",
+            "powerful, strong",
+            "loving, romantic",
+            "sad"
+        ]
+    },
+    "128": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/ivilion-d_b_l.wav",
+        "mood/theme": [
+            "angry, aggressive",
+            "powerful, strong",
+            "exciting, thrilling",
+            "bizarre, weird",
+            "arousing, awakening"
+        ]
+    },
+    "129": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/crosby_stills_nash_and_young-teach_your_children.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "emotional, passionate",
+            "touching, loving",
+            "tender, soft"
+        ]
+    },
+    "130": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/ojays-livin_for_the_weekend.wav",
+        "mood/theme": [
+            "happy",
+            "cheerful, festive",
+            "exciting, thrilling",
+            "positive, optimistic",
+            "pleasant, comfortable"
+        ]
+    },
+    "131": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/charlie_rich-behind_closed_doors.wav",
+        "mood/theme": [
+            "tender, soft",
+            "loving, romantic",
+            "calming, soothing",
+            "pleasant, comfortable",
+            "happy"
+        ]
+    },
+    "132": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/anita_baker-caught_up_in_the_rapture.wav",
+        "mood/theme": [
+            "loving, romantic",
+            "calming, soothing",
+            "touching, loving",
+            "tender, soft",
+            "happy"
+        ]
+    },
+    "133": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/smokey_robinson_and_the_miracles-ooo_baby_baby.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "loving, romantic",
+            "pleasant, comfortable",
+            "emotional, passionate",
+            "touching, loving"
+        ]
+    },
+    "134": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/soundgarden-black_hole_sun.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "powerful, strong",
+            "pleasant, comfortable",
+            "emotional, passionate",
+            "sad"
+        ]
+    },
+    "135": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/spiritualized-stop_your_crying.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "touching, loving",
+            "calming, soothing",
+            "powerful, strong",
+            "emotional, passionate"
+        ]
+    },
+    "136": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/sarah_mclachlan-possession.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "emotional, passionate",
+            "powerful, strong",
+            "sad"
+        ]
+    },
+    "137": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/black_flag-six_pack.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "angry, aggressive",
+            "arousing, awakening",
+            "exciting, thrilling",
+            "emotional, passionate"
+        ]
+    },
+    "138": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/queen-we_will_rock_you.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "powerful, strong",
+            "positive, optimistic",
+            "cheerful, festive",
+            "exciting, thrilling"
+        ]
+    },
+    "139": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/michael_masley-advice_from_the_angel_of_thresholds.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "tender, soft",
+            "pleasant, comfortable",
+            "powerful, strong",
+            "positive, optimistic"
+        ]
+    },
+    "140": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/boston-more_than_a_feeling.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "positive, optimistic",
+            "arousing, awakening",
+            "cheerful, festive",
+            "exciting, thrilling"
+        ]
+    },
+    "141": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/dr_kuch-persuaders_dub.wav",
+        "mood/theme": [
+            "bizarre, weird",
+            "arousing, awakening",
+            "exciting, thrilling",
+            "powerful, strong",
+            "angry, aggressive"
+        ]
+    },
+    "142": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/neil_young-razor_love.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "tender, soft",
+            "pleasant, comfortable",
+            "loving, romantic",
+            "emotional, passionate"
+        ]
+    },
+    "143": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/wicked_allstars-happy.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "tender, soft",
+            "happy",
+            "calming, soothing",
+            "emotional, passionate"
+        ]
+    },
+    "144": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/weezer-buddy_holly.wav",
+        "mood/theme": [
+            "happy",
+            "carefree, lighthearted",
+            "light, playful",
+            "pleasant, comfortable",
+            "cheerful, festive"
+        ]
+    },
+    "145": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/oasis-supersonic.wav",
+        "mood/theme": [
+            "exciting, thrilling",
+            "pleasant, comfortable",
+            "arousing, awakening",
+            "cheerful, festive",
+            "powerful, strong"
+        ]
+    },
+    "146": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/carl_perkins-matchbox.wav",
+        "mood/theme": [
+            "carefree, lighthearted",
+            "light, playful",
+            "arousing, awakening",
+            "cheerful, festive",
+            "happy"
+        ]
+    },
+    "147": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/adam_ant-wonderful.wav",
+        "mood/theme": [
+            "emotional, passionate",
+            "positive, optimistic",
+            "touching, loving",
+            "light, playful",
+            "happy"
+        ]
+    },
+    "148": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/velvet_underground-new_age.wav",
+        "mood/theme": [
+            "loving, romantic"
+        ]
+    },
+    "149": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/chuck_berry-roll_over_beethoven.wav",
+        "mood/theme": [
+            "happy",
+            "arousing, awakening",
+            "cheerful, festive",
+            "carefree, lighthearted",
+            "exciting, thrilling"
+        ]
+    },
+    "150": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/chumbawamba-tubthumping.wav",
+        "mood/theme": [
+            "happy",
+            "powerful, strong",
+            "arousing, awakening",
+            "positive, optimistic",
+            "cheerful, festive"
+        ]
+    },
+    "151": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/chicago-if_you_leave_me_now.wav",
+        "mood/theme": [
+            "tender, soft",
+            "pleasant, comfortable",
+            "loving, romantic",
+            "emotional, passionate",
+            "sad"
+        ]
+    },
+    "152": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/5th_dimension-one_less_bell_to_answer.wav",
+        "mood/theme": [
+            "sad",
+            "calming, soothing",
+            "tender, soft",
+            "loving, romantic",
+            "pleasant, comfortable"
+        ]
+    },
+    "153": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/shira_kammen-music_of_waters.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "tender, soft",
+            "pleasant, comfortable",
+            "positive, optimistic",
+            "carefree, lighthearted"
+        ]
+    },
+    "154": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/aerosmith-dude_looks_like_a_lady.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "happy",
+            "cheerful, festive",
+            "light, playful",
+            "powerful, strong"
+        ]
+    },
+    "155": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/lisa_debenedictis-fruitless.wav",
+        "mood/theme": [
+            "tender, soft",
+            "sad",
+            "calming, soothing",
+            "pleasant, comfortable",
+            "loving, romantic"
+        ]
+    },
+    "156": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/indidginus-dusty_lands.wav",
+        "mood/theme": [
+            "exciting, thrilling",
+            "bizarre, weird",
+            "sad",
+            "arousing, awakening",
+            "powerful, strong"
+        ]
+    },
+    "157": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/alice_in_chains-no_excuses.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "emotional, passionate",
+            "sad",
+            "pleasant, comfortable",
+            "calming, soothing"
+        ]
+    },
+    "158": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/red_hot_chili_peppers-give_it_away.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "cheerful, festive",
+            "pleasant, comfortable",
+            "powerful, strong",
+            "carefree, lighthearted"
+        ]
+    },
+    "159": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/james_taylor-fire_and_rain.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "calming, soothing",
+            "tender, soft",
+            "emotional, passionate",
+            "positive, optimistic"
+        ]
+    },
+    "160": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/manassas-bound_to_fall.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "cheerful, festive",
+            "happy",
+            "calming, soothing",
+            "positive, optimistic"
+        ]
+    },
+    "161": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/carpenters-rainy_days_and_mondays.wav",
+        "mood/theme": [
+            "tender, soft",
+            "sad",
+            "emotional, passionate",
+            "touching, loving",
+            "calming, soothing"
+        ]
+    },
+    "162": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/everly_brothers-take_a_message_to_mary.wav",
+        "mood/theme": [
+            "sad",
+            "calming, soothing",
+            "pleasant, comfortable",
+            "tender, soft",
+            "touching, loving"
+        ]
+    },
+    "163": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/eels-cancer_for_the_cure.wav",
+        "mood/theme": [
+            "carefree, lighthearted",
+            "bizarre, weird",
+            "powerful, strong",
+            "light, playful",
+            "happy"
+        ]
+    },
+    "164": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/style_council-headstart_for_happiness.wav",
+        "mood/theme": [
+            "happy",
+            "arousing, awakening",
+            "cheerful, festive",
+            "loving, romantic",
+            "emotional, passionate"
+        ]
+    },
+    "165": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/shiva_in_exile-hollow_earth.wav",
+        "mood/theme": [
+            "bizarre, weird",
+            "powerful, strong",
+            "calming, soothing",
+            "pleasant, comfortable",
+            "exciting, thrilling"
+        ]
+    },
+    "166": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/squarepusher-a_journey_to_reedham_(7am_mix).wav",
+        "mood/theme": [
+            "happy",
+            "cheerful, festive",
+            "exciting, thrilling",
+            "positive, optimistic",
+            "arousing, awakening"
+        ]
+    },
+    "167": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/charlie_parker-ornithology.wav",
+        "mood/theme": [
+            "happy",
+            "calming, soothing",
+            "carefree, lighthearted",
+            "pleasant, comfortable",
+            "arousing, awakening"
+        ]
+    },
+    "168": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/solace-laz_7_8.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "powerful, strong",
+            "cheerful, festive",
+            "exciting, thrilling",
+            "positive, optimistic"
+        ]
+    },
+    "169": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/very_large_array-psychedelic_baby.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "powerful, strong",
+            "exciting, thrilling",
+            "pleasant, comfortable",
+            "carefree, lighthearted"
+        ]
+    },
+    "170": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/sly_and_the_family_stone-just_like_a_baby.wav",
+        "mood/theme": [
+            "tender, soft",
+            "calming, soothing",
+            "pleasant, comfortable",
+            "emotional, passionate",
+            "loving, romantic"
+        ]
+    },
+    "171": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/daft_punk-da_funk.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "cheerful, festive",
+            "happy",
+            "pleasant, comfortable",
+            "light, playful"
+        ]
+    },
+    "172": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/stone_roses-i_wanna_be_adored.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "sad",
+            "pleasant, comfortable",
+            "happy",
+            "arousing, awakening"
+        ]
+    },
+    "173": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/chi-lites-stoned_out_of_my_mind.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "happy",
+            "calming, soothing",
+            "cheerful, festive",
+            "tender, soft"
+        ]
+    },
+    "174": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/art_tatum-willow_weep_for_me.wav",
+        "mood/theme": [
+            "carefree, lighthearted",
+            "positive, optimistic",
+            "happy",
+            "cheerful, festive",
+            "calming, soothing"
+        ]
+    },
+    "175": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/war-all_day_music.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "carefree, lighthearted",
+            "happy",
+            "tender, soft"
+        ]
+    },
+    "176": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/cure-just_like_heaven.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "arousing, awakening",
+            "powerful, strong",
+            "loving, romantic",
+            "carefree, lighthearted"
+        ]
+    },
+    "177": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/alicia_keys-fallin.wav",
+        "mood/theme": [
+            "emotional, passionate",
+            "touching, loving",
+            "pleasant, comfortable",
+            "powerful, strong",
+            "loving, romantic"
+        ]
+    },
+    "178": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/birthday_party-mr._clarinet.wav",
+        "mood/theme": [
+            "bizarre, weird",
+            "arousing, awakening",
+            "emotional, passionate",
+            "sad",
+            "powerful, strong"
+        ]
+    },
+    "179": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/throwing_muses-hate_my_way.wav",
+        "mood/theme": [
+            "angry, aggressive",
+            "powerful, strong",
+            "bizarre, weird",
+            "sad",
+            "emotional, passionate"
+        ]
+    },
+    "180": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/primus-jerry_was_a_race_car_driver.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "powerful, strong",
+            "exciting, thrilling",
+            "angry, aggressive",
+            "bizarre, weird"
+        ]
+    },
+    "181": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/dead_kennedys-chemical_warfare.wav",
+        "mood/theme": [
+            "angry, aggressive",
+            "powerful, strong",
+            "arousing, awakening",
+            "emotional, passionate",
+            "exciting, thrilling"
+        ]
+    },
+    "182": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/junior_murvin-police_and_thieves.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "happy",
+            "pleasant, comfortable",
+            "tender, soft",
+            "emotional, passionate"
+        ]
+    },
+    "183": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/green_day-longview.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "arousing, awakening",
+            "exciting, thrilling",
+            "carefree, lighthearted",
+            "emotional, passionate"
+        ]
+    },
+    "184": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/breeders-cannonball.wav",
+        "mood/theme": [
+            "bizarre, weird",
+            "arousing, awakening",
+            "powerful, strong",
+            "carefree, lighthearted",
+            "exciting, thrilling"
+        ]
+    },
+    "185": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/jag-jag_s_rag.wav",
+        "mood/theme": [
+            "arousing, awakening"
+        ]
+    },
+    "186": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/shakira-the_one.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "powerful, strong",
+            "emotional, passionate",
+            "touching, loving",
+            "loving, romantic"
+        ]
+    },
+    "187": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/interpol-stella_was_a_diver_and_she_was_always_down.wav",
+        "mood/theme": [
+            "sad",
+            "arousing, awakening",
+            "emotional, passionate",
+            "pleasant, comfortable",
+            "powerful, strong"
+        ]
+    },
+    "188": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/frank_zappa-whats_the_ugliest_part_of_your_body.wav",
+        "mood/theme": [
+            "bizarre, weird",
+            "light, playful",
+            "calming, soothing",
+            "cheerful, festive",
+            "carefree, lighthearted"
+        ]
+    },
+    "189": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/aretha_franklin-dont_play_that_song.wav",
+        "mood/theme": [
+            "loving, romantic",
+            "emotional, passionate",
+            "powerful, strong",
+            "pleasant, comfortable",
+            "touching, loving"
+        ]
+    },
+    "190": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/talking_heads-and_she_was.wav",
+        "mood/theme": [
+            "carefree, lighthearted",
+            "happy",
+            "arousing, awakening",
+            "pleasant, comfortable",
+            "cheerful, festive"
+        ]
+    },
+    "191": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/outkast-ms._jackson.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "arousing, awakening",
+            "tender, soft",
+            "exciting, thrilling",
+            "emotional, passionate"
+        ]
+    },
+    "192": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/arthur_yoria-at_least_you_ve_been_told.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "happy",
+            "pleasant, comfortable",
+            "cheerful, festive",
+            "powerful, strong"
+        ]
+    },
+    "193": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/madness-baggy_trousers.wav",
+        "mood/theme": [
+            "light, playful",
+            "happy",
+            "carefree, lighthearted",
+            "cheerful, festive",
+            "arousing, awakening"
+        ]
+    },
+    "194": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/grayson_wray-heaven_s_the_place.wav",
+        "mood/theme": [
+            "carefree, lighthearted",
+            "pleasant, comfortable",
+            "bizarre, weird",
+            "calming, soothing",
+            "positive, optimistic"
+        ]
+    },
+    "195": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/janet_jackson-miss_you_much.wav",
+        "mood/theme": [
+            "happy",
+            "cheerful, festive",
+            "loving, romantic",
+            "positive, optimistic",
+            "touching, loving"
+        ]
+    },
+    "196": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/my_bloody_valentine-when_you_sleep.wav",
+        "mood/theme": [
+            "powerful, strong"
+        ]
+    },
+    "197": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/pantera-becoming.wav",
+        "mood/theme": [
+            "angry, aggressive",
+            "arousing, awakening",
+            "powerful, strong",
+            "exciting, thrilling",
+            "emotional, passionate"
+        ]
+    },
+    "198": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/church-under_the_milky_way.wav",
+        "mood/theme": [
+            "sad",
+            "calming, soothing",
+            "pleasant, comfortable",
+            "tender, soft",
+            "carefree, lighthearted"
+        ]
+    },
+    "199": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/young_mc-bust_a_move.wav",
+        "mood/theme": [
+            "cheerful, festive",
+            "light, playful",
+            "happy",
+            "arousing, awakening",
+            "carefree, lighthearted"
+        ]
+    },
+    "200": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/american_music_club-jesus_hands.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "tender, soft",
+            "emotional, passionate",
+            "loving, romantic",
+            "happy"
+        ]
+    },
+    "201": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/nelly-country_grammar.wav",
+        "mood/theme": [
+            "cheerful, festive",
+            "happy",
+            "arousing, awakening",
+            "exciting, thrilling",
+            "positive, optimistic"
+        ]
+    },
+    "202": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/cyndi_lauper-money_changes_everything.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "angry, aggressive",
+            "arousing, awakening",
+            "exciting, thrilling",
+            "emotional, passionate"
+        ]
+    },
+    "203": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/t._rex-children_of_the_revolution.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "exciting, thrilling",
+            "emotional, passionate",
+            "arousing, awakening",
+            "pleasant, comfortable"
+        ]
+    },
+    "204": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/jamiroquai-little_l.wav",
+        "mood/theme": [
+            "happy",
+            "arousing, awakening",
+            "cheerful, festive",
+            "carefree, lighthearted",
+            "exciting, thrilling"
+        ]
+    },
+    "205": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/association-windy.wav",
+        "mood/theme": [
+            "happy",
+            "positive, optimistic",
+            "light, playful",
+            "cheerful, festive",
+            "carefree, lighthearted"
+        ]
+    },
+    "206": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/zombies-beechwood_park.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "happy",
+            "tender, soft",
+            "light, playful"
+        ]
+    },
+    "207": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/george_harrison-all_things_must_pass.wav",
+        "mood/theme": [
+            "tender, soft",
+            "calming, soothing",
+            "pleasant, comfortable",
+            "emotional, passionate",
+            "positive, optimistic"
+        ]
+    },
+    "208": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/cat_power-he_war.wav",
+        "mood/theme": [
+            "sad",
+            "angry, aggressive",
+            "powerful, strong",
+            "emotional, passionate",
+            "positive, optimistic"
+        ]
+    },
+    "209": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/janes_addiction-been_caught_stealing.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "carefree, lighthearted",
+            "arousing, awakening",
+            "exciting, thrilling",
+            "light, playful"
+        ]
+    },
+    "210": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/flying_burrito_brothers-break_my_mind.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "tender, soft",
+            "loving, romantic",
+            "exciting, thrilling",
+            "emotional, passionate"
+        ]
+    },
+    "211": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/spice_girls-stop.wav",
+        "mood/theme": [
+            "happy",
+            "pleasant, comfortable",
+            "cheerful, festive",
+            "positive, optimistic",
+            "carefree, lighthearted"
+        ]
+    },
+    "212": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/badly_drawn_boy-all_possibilities.wav",
+        "mood/theme": [
+            "happy",
+            "cheerful, festive",
+            "pleasant, comfortable",
+            "carefree, lighthearted",
+            "emotional, passionate"
+        ]
+    },
+    "213": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/muddy_waters-mannish_boy.wav",
+        "mood/theme": [
+            "emotional, passionate",
+            "powerful, strong",
+            "arousing, awakening",
+            "happy",
+            "exciting, thrilling"
+        ]
+    },
+    "214": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/sade-smooth_operator.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "tender, soft",
+            "touching, loving",
+            "emotional, passionate"
+        ]
+    },
+    "215": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/kanye_west-gold_digger.wav",
+        "mood/theme": [
+            "exciting, thrilling",
+            "happy",
+            "arousing, awakening",
+            "cheerful, festive",
+            "powerful, strong"
+        ]
+    },
+    "216": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/santana-love_of_my_life.wav",
+        "mood/theme": [
+            "loving, romantic",
+            "emotional, passionate",
+            "calming, soothing",
+            "pleasant, comfortable",
+            "powerful, strong"
+        ]
+    },
+    "217": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/guns_n_roses-november_rain.wav",
+        "mood/theme": [
+            "tender, soft",
+            "sad",
+            "pleasant, comfortable",
+            "emotional, passionate",
+            "calming, soothing"
+        ]
+    },
+    "218": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/cilla_black-alfie.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "touching, loving",
+            "calming, soothing",
+            "tender, soft",
+            "pleasant, comfortable"
+        ]
+    },
+    "219": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/smithereens-behind_the_wall_of_sleep.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "powerful, strong",
+            "arousing, awakening",
+            "positive, optimistic",
+            "sad"
+        ]
+    },
+    "220": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/boo_radleys-wake_up_boo.wav",
+        "mood/theme": [
+            "happy",
+            "arousing, awakening",
+            "carefree, lighthearted",
+            "positive, optimistic",
+            "light, playful"
+        ]
+    },
+    "221": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/band-king_harvest_has_surely_come.wav",
+        "mood/theme": [
+            "happy",
+            "arousing, awakening",
+            "pleasant, comfortable",
+            "cheerful, festive",
+            "powerful, strong"
+        ]
+    },
+    "222": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/belief_systems-skunk_werks.wav",
+        "mood/theme": [
+            "calming, soothing"
+        ]
+    },
+    "223": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/tears_for_fears-everybody_wants_to_rule_the_world.wav",
+        "mood/theme": [
+            "cheerful, festive",
+            "happy",
+            "calming, soothing",
+            "pleasant, comfortable",
+            "carefree, lighthearted"
+        ]
+    },
+    "224": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/otis_redding-mr._pitiful.wav",
+        "mood/theme": [
+            "emotional, passionate",
+            "arousing, awakening",
+            "cheerful, festive",
+            "exciting, thrilling",
+            "pleasant, comfortable"
+        ]
+    },
+    "225": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/soul_ii_soul-keep_on_movin.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "emotional, passionate",
+            "tender, soft",
+            "loving, romantic"
+        ]
+    },
+    "226": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/arlo_guthrie-alices_restaurant_massacree.wav",
+        "mood/theme": [
+            "light, playful",
+            "happy",
+            "pleasant, comfortable",
+            "carefree, lighthearted",
+            "calming, soothing"
+        ]
+    },
+    "227": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/los_lobos-corrido_1.wav",
+        "mood/theme": [
+            "cheerful, festive",
+            "carefree, lighthearted",
+            "happy",
+            "arousing, awakening",
+            "pleasant, comfortable"
+        ]
+    },
+    "228": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/blind_faith-had_to_cry_today.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "sad",
+            "calming, soothing",
+            "emotional, passionate",
+            "powerful, strong"
+        ]
+    },
+    "229": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/drevo-our_watcher_show_us_the_way.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "emotional, passionate",
+            "powerful, strong",
+            "sad",
+            "positive, optimistic"
+        ]
+    },
+    "230": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/strojovna_07-130.wav",
+        "mood/theme": [
+            "exciting, thrilling",
+            "powerful, strong",
+            "happy",
+            "calming, soothing",
+            "arousing, awakening"
+        ]
+    },
+    "231": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/earth_wind_and_fire-september.wav",
+        "mood/theme": [
+            "cheerful, festive",
+            "happy",
+            "positive, optimistic",
+            "carefree, lighthearted",
+            "light, playful"
+        ]
+    },
+    "232": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/catherine_wheel-black_metallic.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "powerful, strong",
+            "emotional, passionate",
+            "happy"
+        ]
+    },
+    "233": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/yeah_yeah_yeahs-maps.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "emotional, passionate",
+            "tender, soft",
+            "positive, optimistic"
+        ]
+    },
+    "234": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/chills-i_love_my_leather_jacket.wav",
+        "mood/theme": [
+            "carefree, lighthearted",
+            "bizarre, weird",
+            "cheerful, festive",
+            "light, playful",
+            "pleasant, comfortable"
+        ]
+    },
+    "235": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/beatles-strawberry_fields_forever.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "powerful, strong",
+            "tender, soft",
+            "positive, optimistic"
+        ]
+    },
+    "236": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/joy_division-love_will_tear_us_apart.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "arousing, awakening",
+            "pleasant, comfortable",
+            "loving, romantic",
+            "emotional, passionate"
+        ]
+    },
+    "237": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/xtc-love_at_first_sight.wav",
+        "mood/theme": [
+            "happy",
+            "cheerful, festive",
+            "light, playful",
+            "carefree, lighthearted",
+            "arousing, awakening"
+        ]
+    },
+    "238": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/stan_getz-corcovado_quiet_nights_of_quiet_stars.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "loving, romantic",
+            "pleasant, comfortable",
+            "tender, soft",
+            "touching, loving"
+        ]
+    },
+    "239": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/animals-im_crying.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "exciting, thrilling",
+            "powerful, strong",
+            "light, playful",
+            "carefree, lighthearted"
+        ]
+    },
+    "240": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/van_morrison-and_it_stoned_me.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "calming, soothing",
+            "loving, romantic",
+            "tender, soft",
+            "powerful, strong"
+        ]
+    },
+    "241": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/altered_images-dont_talk_to_me_about_love.wav",
+        "mood/theme": [
+            "happy",
+            "cheerful, festive",
+            "pleasant, comfortable",
+            "carefree, lighthearted",
+            "light, playful"
+        ]
+    },
+    "242": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/domased-too_slow.wav",
+        "mood/theme": [
+            "arousing, awakening"
+        ]
+    },
+    "243": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/michael_jackson-billie_jean.wav",
+        "mood/theme": [
+            "emotional, passionate",
+            "arousing, awakening",
+            "powerful, strong",
+            "exciting, thrilling",
+            "touching, loving"
+        ]
+    },
+    "244": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/john_lee_hooker-boom_boom.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "light, playful",
+            "happy",
+            "carefree, lighthearted",
+            "positive, optimistic"
+        ]
+    },
+    "245": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/abba-s.o.s..wav",
+        "mood/theme": [
+            "happy",
+            "exciting, thrilling",
+            "light, playful",
+            "cheerful, festive",
+            "carefree, lighthearted"
+        ]
+    },
+    "246": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/creedence_clearwater_revival-travelin_band.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "exciting, thrilling",
+            "powerful, strong",
+            "happy",
+            "cheerful, festive"
+        ]
+    },
+    "247": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/thursday_group-like_white_on_rice.wav",
+        "mood/theme": [
+            "exciting, thrilling",
+            "sad",
+            "arousing, awakening",
+            "powerful, strong",
+            "emotional, passionate"
+        ]
+    },
+    "248": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/eurythmics-sweet_dreams.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "exciting, thrilling",
+            "sad",
+            "powerful, strong",
+            "emotional, passionate"
+        ]
+    },
+    "249": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/robert_johnson-sweet_home_chicago.wav",
+        "mood/theme": [
+            "emotional, passionate",
+            "sad",
+            "pleasant, comfortable",
+            "arousing, awakening",
+            "happy"
+        ]
+    },
+    "250": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/shane_jackman-set_fire_to_the_city.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "tender, soft",
+            "emotional, passionate",
+            "pleasant, comfortable",
+            "sad"
+        ]
+    },
+    "251": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/sylvester-you_make_me_feel_mighty_real.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "happy",
+            "positive, optimistic",
+            "cheerful, festive",
+            "exciting, thrilling"
+        ]
+    },
+    "252": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/allman_brothers_band-melissa.wav",
+        "mood/theme": [
+            "tender, soft",
+            "calming, soothing",
+            "pleasant, comfortable",
+            "touching, loving",
+            "happy"
+        ]
+    },
+    "253": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/love_and_rockets-mirror_people.wav",
+        "mood/theme": [
+            "sad"
+        ]
+    },
+    "254": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/stevie_wonder-for_once_in_my_life.wav",
+        "mood/theme": [
+            "happy",
+            "arousing, awakening",
+            "pleasant, comfortable",
+            "loving, romantic",
+            "carefree, lighthearted"
+        ]
+    },
+    "255": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/portishead-all_mine.wav",
+        "mood/theme": [
+            "sad",
+            "calming, soothing",
+            "emotional, passionate",
+            "pleasant, comfortable",
+            "powerful, strong"
+        ]
+    },
+    "256": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/duran_duran-come_undone.wav",
+        "mood/theme": [
+            "tender, soft",
+            "calming, soothing",
+            "sad",
+            "emotional, passionate",
+            "pleasant, comfortable"
+        ]
+    },
+    "257": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/jackalopes-rotgut.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "powerful, strong",
+            "angry, aggressive",
+            "exciting, thrilling",
+            "happy"
+        ]
+    },
+    "258": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/buggles-video_killed_the_radio_star.wav",
+        "mood/theme": [
+            "carefree, lighthearted",
+            "light, playful",
+            "cheerful, festive",
+            "powerful, strong",
+            "happy"
+        ]
+    },
+    "259": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/brian_eno-here_come_the_warm_jets.wav",
+        "mood/theme": [
+            "happy",
+            "pleasant, comfortable",
+            "carefree, lighthearted",
+            "bizarre, weird",
+            "calming, soothing"
+        ]
+    },
+    "260": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/touchinggrace-wild_spring_apples.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "happy",
+            "calming, soothing",
+            "arousing, awakening",
+            "powerful, strong"
+        ]
+    },
+    "261": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/tom_petty_and_the_heartbreakers-dont_come_around_here_no_more.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "emotional, passionate",
+            "sad",
+            "tender, soft"
+        ]
+    },
+    "262": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/they_might_be_giants-i_should_be_allowed_to_think.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "carefree, lighthearted",
+            "calming, soothing",
+            "light, playful",
+            "cheerful, festive"
+        ]
+    },
+    "263": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/napoleon_blown_aparts-higher_education.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "powerful, strong",
+            "angry, aggressive",
+            "exciting, thrilling",
+            "happy"
+        ]
+    },
+    "264": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/billy_joel-we_didnt_start_the_fire.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "pleasant, comfortable",
+            "cheerful, festive",
+            "powerful, strong",
+            "happy"
+        ]
+    },
+    "265": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/jesse_manno-alf_leyla_wa_leyla.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "emotional, passionate",
+            "arousing, awakening",
+            "exciting, thrilling",
+            "pleasant, comfortable"
+        ]
+    },
+    "266": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/metallica-one.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "angry, aggressive",
+            "arousing, awakening",
+            "exciting, thrilling",
+            "sad"
+        ]
+    },
+    "267": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/donovan-catch_the_wind.wav",
+        "mood/theme": [
+            "tender, soft",
+            "pleasant, comfortable",
+            "carefree, lighthearted",
+            "calming, soothing",
+            "emotional, passionate"
+        ]
+    },
+    "268": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/mr_epic-ruff_and_tumble.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "carefree, lighthearted",
+            "calming, soothing",
+            "positive, optimistic",
+            "happy"
+        ]
+    },
+    "269": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/tom_petty-i_wont_back_down.wav",
+        "mood/theme": [
+            "positive, optimistic",
+            "cheerful, festive",
+            "powerful, strong",
+            "emotional, passionate",
+            "happy"
+        ]
+    },
+    "270": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/wilco-kingpin.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "light, playful",
+            "pleasant, comfortable",
+            "powerful, strong",
+            "calming, soothing"
+        ]
+    },
+    "271": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/tim_rayborn-yedi_tekrar.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "arousing, awakening",
+            "exciting, thrilling",
+            "happy",
+            "pleasant, comfortable"
+        ]
+    },
+    "272": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/louis_armstrong-hotter_than_that.wav",
+        "mood/theme": [
+            "happy",
+            "arousing, awakening",
+            "cheerful, festive",
+            "light, playful",
+            "pleasant, comfortable"
+        ]
+    },
+    "273": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/small_faces-lazy_sunday.wav",
+        "mood/theme": [
+            "carefree, lighthearted",
+            "light, playful",
+            "cheerful, festive",
+            "powerful, strong",
+            "happy"
+        ]
+    },
+    "274": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/gloria_gaynor-i_will_survive.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "powerful, strong",
+            "happy",
+            "pleasant, comfortable",
+            "cheerful, festive"
+        ]
+    },
+    "275": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/miles_davis-blue_in_green.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "tender, soft",
+            "sad",
+            "pleasant, comfortable",
+            "touching, loving"
+        ]
+    },
+    "276": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/cars-good_times_roll.wav",
+        "mood/theme": [
+            "positive, optimistic",
+            "happy",
+            "arousing, awakening",
+            "pleasant, comfortable",
+            "cheerful, festive"
+        ]
+    },
+    "277": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/falik-bliss.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "positive, optimistic",
+            "tender, soft",
+            "happy"
+        ]
+    },
+    "278": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/germs-lexicon_devil.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "cheerful, festive",
+            "powerful, strong",
+            "carefree, lighthearted",
+            "exciting, thrilling"
+        ]
+    },
+    "279": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/bon_jovi-livin_on_a_prayer.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "exciting, thrilling",
+            "arousing, awakening",
+            "emotional, passionate",
+            "happy"
+        ]
+    },
+    "280": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/new_order-blue_monday.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "pleasant, comfortable",
+            "powerful, strong",
+            "exciting, thrilling",
+            "happy"
+        ]
+    },
+    "281": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/somadrone-coda.wav",
+        "mood/theme": [
+            "sad",
+            "emotional, passionate",
+            "angry, aggressive",
+            "powerful, strong",
+            "exciting, thrilling"
+        ]
+    },
+    "282": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/antiguru-peering.wav",
+        "mood/theme": [
+            "happy",
+            "calming, soothing",
+            "pleasant, comfortable",
+            "cheerful, festive",
+            "powerful, strong"
+        ]
+    },
+    "283": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/traffic-pearly_queen.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "angry, aggressive",
+            "arousing, awakening",
+            "sad",
+            "exciting, thrilling"
+        ]
+    },
+    "284": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/third_eye_blind-semi-charmed_life.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "powerful, strong",
+            "exciting, thrilling",
+            "positive, optimistic",
+            "happy"
+        ]
+    },
+    "285": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/smashing_pumpkins-rocket.wav",
+        "mood/theme": [
+            "carefree, lighthearted"
+        ]
+    },
+    "286": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/genesis-cuckoo_cocoon.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "tender, soft",
+            "loving, romantic",
+            "positive, optimistic"
+        ]
+    },
+    "287": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/mose_allison-monsters_of_the_id.wav",
+        "mood/theme": [
+            "sad",
+            "calming, soothing",
+            "tender, soft",
+            "emotional, passionate",
+            "bizarre, weird"
+        ]
+    },
+    "288": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/uncle_tupelo-the_long_cut.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "loving, romantic",
+            "positive, optimistic",
+            "emotional, passionate",
+            "touching, loving"
+        ]
+    },
+    "289": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/kourosh_zolani-peaceful_planet.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "calming, soothing",
+            "arousing, awakening",
+            "cheerful, festive",
+            "positive, optimistic"
+        ]
+    },
+    "290": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/clarence_ashley-the_house_carpenter.wav",
+        "mood/theme": [
+            "tender, soft",
+            "sad",
+            "calming, soothing",
+            "loving, romantic",
+            "happy"
+        ]
+    },
+    "291": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/madonna-ray_of_light.wav",
+        "mood/theme": [
+            "happy",
+            "arousing, awakening",
+            "carefree, lighthearted",
+            "positive, optimistic",
+            "exciting, thrilling"
+        ]
+    },
+    "292": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/panacea-dragaicuta.wav",
+        "mood/theme": [
+            "sad",
+            "calming, soothing",
+            "powerful, strong",
+            "emotional, passionate",
+            "exciting, thrilling"
+        ]
+    },
+    "293": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/monkees-a_little_bit_me_a_little_bit_you.wav",
+        "mood/theme": [
+            "happy",
+            "cheerful, festive",
+            "carefree, lighthearted",
+            "pleasant, comfortable",
+            "light, playful"
+        ]
+    },
+    "294": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/10cc-for_you_and_i.wav",
+        "mood/theme": [
+            "tender, soft",
+            "pleasant, comfortable",
+            "calming, soothing",
+            "emotional, passionate",
+            "touching, loving"
+        ]
+    },
+    "295": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/b.b._king-sweet_little_angel.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "calming, soothing",
+            "arousing, awakening",
+            "loving, romantic",
+            "emotional, passionate"
+        ]
+    },
+    "296": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/johnny_cash-the_man_comes_around.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "calming, soothing",
+            "emotional, passionate",
+            "arousing, awakening",
+            "pleasant, comfortable"
+        ]
+    },
+    "297": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/ashford_and_simpson-solid.wav",
+        "mood/theme": [
+            "loving, romantic",
+            "emotional, passionate",
+            "happy",
+            "touching, loving",
+            "pleasant, comfortable"
+        ]
+    },
+    "298": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/sebadoh-soul_and_fire.wav",
+        "mood/theme": [
+            "sad",
+            "tender, soft",
+            "loving, romantic",
+            "powerful, strong",
+            "touching, loving"
+        ]
+    },
+    "299": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/etherine-never_leave.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "powerful, strong",
+            "tender, soft",
+            "touching, loving"
+        ]
+    },
+    "300": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/lynyrd_skynyrd-sweet_home_alabama.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "cheerful, festive",
+            "arousing, awakening",
+            "happy",
+            "calming, soothing"
+        ]
+    },
+    "301": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/syreeta-what_love_has_joined_together.wav",
+        "mood/theme": [
+            "loving, romantic",
+            "emotional, passionate",
+            "touching, loving",
+            "positive, optimistic",
+            "happy"
+        ]
+    },
+    "302": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/nine_inch_nails-head_like_a_hole.wav",
+        "mood/theme": [
+            "angry, aggressive",
+            "powerful, strong",
+            "arousing, awakening",
+            "bizarre, weird",
+            "emotional, passionate"
+        ]
+    },
+    "303": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/clash-lost_in_the_supermarket.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "sad",
+            "calming, soothing",
+            "arousing, awakening",
+            "carefree, lighthearted"
+        ]
+    },
+    "304": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/drop_trio-slapjack.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "cheerful, festive",
+            "happy",
+            "arousing, awakening"
+        ]
+    },
+    "305": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/gene_clark-the_true_one.wav",
+        "mood/theme": [
+            "sad",
+            "calming, soothing",
+            "tender, soft",
+            "emotional, passionate",
+            "pleasant, comfortable"
+        ]
+    },
+    "306": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/bob_seger-turn_the_page.wav",
+        "mood/theme": [
+            "sad",
+            "calming, soothing",
+            "pleasant, comfortable",
+            "emotional, passionate",
+            "tender, soft"
+        ]
+    },
+    "307": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/mott_the_hoople-roll_away_the_stone.wav",
+        "mood/theme": [
+            "happy",
+            "cheerful, festive",
+            "powerful, strong",
+            "positive, optimistic",
+            "light, playful"
+        ]
+    },
+    "308": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/todd_rundgren-bang_the_drum_all_day.wav",
+        "mood/theme": [
+            "cheerful, festive",
+            "happy",
+            "positive, optimistic",
+            "light, playful",
+            "carefree, lighthearted"
+        ]
+    },
+    "309": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/mamas_and_the_papas-words_of_love.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "emotional, passionate",
+            "sad",
+            "arousing, awakening",
+            "exciting, thrilling"
+        ]
+    },
+    "310": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/doors-touch_me.wav",
+        "mood/theme": [
+            "touching, loving",
+            "happy",
+            "loving, romantic",
+            "pleasant, comfortable",
+            "cheerful, festive"
+        ]
+    },
+    "311": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/natalie_imbruglia-torn.wav",
+        "mood/theme": [
+            "emotional, passionate",
+            "sad",
+            "calming, soothing",
+            "tender, soft",
+            "touching, loving"
+        ]
+    },
+    "312": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/bjrk-army_of_me.wav",
+        "mood/theme": [
+            "angry, aggressive",
+            "powerful, strong",
+            "bizarre, weird",
+            "exciting, thrilling",
+            "sad"
+        ]
+    },
+    "313": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/jade_leary-going_in.wav",
+        "mood/theme": [
+            "cheerful, festive",
+            "arousing, awakening",
+            "pleasant, comfortable",
+            "exciting, thrilling",
+            "positive, optimistic"
+        ]
+    },
+    "314": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/led_zeppelin-immigrant_song.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "exciting, thrilling",
+            "powerful, strong",
+            "angry, aggressive",
+            "emotional, passionate"
+        ]
+    },
+    "315": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/television-venus.wav",
+        "mood/theme": [
+            "emotional, passionate",
+            "sad",
+            "arousing, awakening",
+            "bizarre, weird",
+            "pleasant, comfortable"
+        ]
+    },
+    "316": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/ac_dc-dirty_deeds_done_dirt_cheap.wav",
+        "mood/theme": [
+            "exciting, thrilling",
+            "arousing, awakening",
+            "powerful, strong",
+            "angry, aggressive",
+            "happy"
+        ]
+    },
+    "317": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/andrews_sisters-boogie_woogie_bugle_boy.wav",
+        "mood/theme": [
+            "happy",
+            "arousing, awakening",
+            "cheerful, festive",
+            "powerful, strong",
+            "pleasant, comfortable"
+        ]
+    },
+    "318": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/garbage-hammering_in_my_head.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "powerful, strong",
+            "exciting, thrilling",
+            "angry, aggressive",
+            "emotional, passionate"
+        ]
+    },
+    "319": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/simon_and_garfunkel-the_only_living_boy_in_new_york.wav",
+        "mood/theme": [
+            "tender, soft",
+            "calming, soothing",
+            "sad",
+            "pleasant, comfortable",
+            "powerful, strong"
+        ]
+    },
+    "320": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/ll_cool_j-mama_said_knock_you_out.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "powerful, strong",
+            "angry, aggressive",
+            "exciting, thrilling",
+            "emotional, passionate"
+        ]
+    },
+    "321": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/starship-nothings_gonna_stop_us_now.wav",
+        "mood/theme": [
+            "loving, romantic",
+            "positive, optimistic",
+            "cheerful, festive",
+            "powerful, strong",
+            "happy"
+        ]
+    },
+    "322": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/elvis_costello-less_than_zero.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "happy",
+            "pleasant, comfortable",
+            "arousing, awakening",
+            "tender, soft"
+        ]
+    },
+    "323": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/ben_folds_five-brick.wav",
+        "mood/theme": [
+            "sad",
+            "emotional, passionate",
+            "tender, soft",
+            "loving, romantic",
+            "touching, loving"
+        ]
+    },
+    "324": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/dionne_warwick-walk_on_by.wav",
+        "mood/theme": [
+            "sad",
+            "emotional, passionate",
+            "touching, loving",
+            "calming, soothing",
+            "pleasant, comfortable"
+        ]
+    },
+    "325": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/depeche_mode-world_in_my_eyes.wav",
+        "mood/theme": [
+            "calming, soothing"
+        ]
+    },
+    "326": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/elvis_presley-heartbreak_hotel.wav",
+        "mood/theme": [
+            "emotional, passionate",
+            "sad",
+            "calming, soothing",
+            "arousing, awakening",
+            "powerful, strong"
+        ]
+    },
+    "327": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/beach_boys-i_get_around.wav",
+        "mood/theme": [
+            "light, playful",
+            "cheerful, festive",
+            "carefree, lighthearted",
+            "happy",
+            "positive, optimistic"
+        ]
+    },
+    "328": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/van_halen-aint_talkin_bout_love.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "emotional, passionate",
+            "arousing, awakening",
+            "exciting, thrilling",
+            "angry, aggressive"
+        ]
+    },
+    "329": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/joram-solipsism.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "arousing, awakening",
+            "happy",
+            "exciting, thrilling",
+            "calming, soothing"
+        ]
+    },
+    "330": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/bryan_adams-cuts_like_a_knife.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "happy",
+            "emotional, passionate",
+            "exciting, thrilling",
+            "arousing, awakening"
+        ]
+    },
+    "331": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/screaming_trees-nearly_lost_you.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "powerful, strong",
+            "exciting, thrilling",
+            "emotional, passionate",
+            "angry, aggressive"
+        ]
+    },
+    "332": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/jacques_brel-les_vieux.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "tender, soft",
+            "pleasant, comfortable",
+            "loving, romantic",
+            "light, playful"
+        ]
+    },
+    "333": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/chic-le_freak.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "cheerful, festive",
+            "happy",
+            "carefree, lighthearted",
+            "exciting, thrilling"
+        ]
+    },
+    "334": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/django_reinhardt-brazil.wav",
+        "mood/theme": [
+            "carefree, lighthearted",
+            "pleasant, comfortable",
+            "cheerful, festive",
+            "light, playful",
+            "calming, soothing"
+        ]
+    },
+    "335": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/sex_pistols-pretty_vacant.wav",
+        "mood/theme": [
+            "angry, aggressive",
+            "arousing, awakening",
+            "powerful, strong",
+            "exciting, thrilling",
+            "happy"
+        ]
+    },
+    "336": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/aphex_twin-come_to_daddy.wav",
+        "mood/theme": [
+            "angry, aggressive",
+            "bizarre, weird",
+            "arousing, awakening",
+            "powerful, strong",
+            "sad"
+        ]
+    },
+    "337": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/franz_ferdinand-come_on_home.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "powerful, strong",
+            "happy",
+            "emotional, passionate",
+            "exciting, thrilling"
+        ]
+    },
+    "338": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/john_lennon-imagine.wav",
+        "mood/theme": [
+            "positive, optimistic",
+            "tender, soft",
+            "emotional, passionate",
+            "touching, loving",
+            "sad"
+        ]
+    },
+    "339": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/beck-where_its_at.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "happy",
+            "arousing, awakening",
+            "cheerful, festive",
+            "bizarre, weird"
+        ]
+    },
+    "340": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/james_brown-give_it_up_or_turnit_a_loose.wav",
+        "mood/theme": [
+            "happy",
+            "arousing, awakening",
+            "pleasant, comfortable",
+            "cheerful, festive",
+            "powerful, strong"
+        ]
+    },
+    "341": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/john_cale-pablo_picasso.wav",
+        "mood/theme": [
+            "sad",
+            "powerful, strong",
+            "angry, aggressive",
+            "bizarre, weird",
+            "pleasant, comfortable"
+        ]
+    },
+    "342": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/tom_waits-time.wav",
+        "mood/theme": [
+            "emotional, passionate",
+            "tender, soft",
+            "sad",
+            "calming, soothing",
+            "pleasant, comfortable"
+        ]
+    },
+    "343": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/cranberries-linger.wav",
+        "mood/theme": [
+            "tender, soft",
+            "calming, soothing",
+            "emotional, passionate",
+            "touching, loving",
+            "loving, romantic"
+        ]
+    },
+    "344": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/west_exit-nocturne.wav",
+        "mood/theme": [
+            "calming, soothing"
+        ]
+    },
+    "345": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/frank_sinatra-fly_me_to_the_moon.wav",
+        "mood/theme": [
+            "touching, loving",
+            "pleasant, comfortable",
+            "cheerful, festive",
+            "loving, romantic",
+            "happy"
+        ]
+    },
+    "346": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/elliott_smith-baby_britain.wav",
+        "mood/theme": [
+            "happy",
+            "pleasant, comfortable",
+            "tender, soft",
+            "light, playful",
+            "calming, soothing"
+        ]
+    },
+    "347": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/cream-tales_of_brave_ulysses.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "exciting, thrilling",
+            "emotional, passionate",
+            "sad",
+            "arousing, awakening"
+        ]
+    },
+    "348": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/randy_newman-sail_away.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "tender, soft",
+            "emotional, passionate",
+            "positive, optimistic"
+        ]
+    },
+    "349": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/coasters-poison_ivy.wav",
+        "mood/theme": [
+            "light, playful",
+            "pleasant, comfortable",
+            "positive, optimistic",
+            "happy",
+            "cheerful, festive"
+        ]
+    },
+    "350": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/steely_dan-rikki_dont_lose_that_number.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "positive, optimistic",
+            "touching, loving",
+            "happy"
+        ]
+    },
+    "351": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/squeeze-pulling_mussels_from_the_shell.wav",
+        "mood/theme": [
+            "happy",
+            "arousing, awakening",
+            "pleasant, comfortable",
+            "powerful, strong",
+            "calming, soothing"
+        ]
+    },
+    "352": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/cab_calloway-minnie_the_moocher.wav",
+        "mood/theme": [
+            "carefree, lighthearted",
+            "light, playful",
+            "pleasant, comfortable",
+            "powerful, strong",
+            "exciting, thrilling"
+        ]
+    },
+    "353": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/electric_frankenstein-teenage_shutdown.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "powerful, strong",
+            "angry, aggressive",
+            "exciting, thrilling",
+            "emotional, passionate"
+        ]
+    },
+    "354": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/alice_cooper-elected.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "happy",
+            "powerful, strong",
+            "positive, optimistic",
+            "exciting, thrilling"
+        ]
+    },
+    "355": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/jimi_hendrix-highway_chile.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "happy",
+            "arousing, awakening",
+            "carefree, lighthearted",
+            "exciting, thrilling"
+        ]
+    },
+    "356": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/carole_king-youve_got_a_friend.wav",
+        "mood/theme": [
+            "emotional, passionate",
+            "touching, loving",
+            "calming, soothing",
+            "pleasant, comfortable",
+            "tender, soft"
+        ]
+    },
+    "357": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/david_bowie-song_for_bob_dylan.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "exciting, thrilling",
+            "happy",
+            "cheerful, festive",
+            "positive, optimistic"
+        ]
+    },
+    "358": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/apples_in_stereo-glowworm.wav",
+        "mood/theme": [
+            "cheerful, festive",
+            "carefree, lighthearted",
+            "light, playful",
+            "calming, soothing",
+            "pleasant, comfortable"
+        ]
+    },
+    "359": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/rage_against_the_machine-maggies_farm.wav",
+        "mood/theme": [
+            "angry, aggressive",
+            "arousing, awakening",
+            "emotional, passionate",
+            "powerful, strong",
+            "exciting, thrilling"
+        ]
+    },
+    "360": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/norine_braun-spanish_banks.wav",
+        "mood/theme": [
+            "bizarre, weird",
+            "powerful, strong",
+            "emotional, passionate",
+            "sad",
+            "calming, soothing"
+        ]
+    },
+    "361": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/bauhaus-ziggy_stardust.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "arousing, awakening",
+            "exciting, thrilling",
+            "emotional, passionate",
+            "happy"
+        ]
+    },
+    "362": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/blood_sweat_and_tears-sometimes_in_winter.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "tender, soft",
+            "pleasant, comfortable",
+            "loving, romantic",
+            "touching, loving"
+        ]
+    },
+    "363": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/bruce_springsteen-badlands.wav",
+        "mood/theme": [
+            "happy",
+            "positive, optimistic",
+            "arousing, awakening",
+            "pleasant, comfortable",
+            "cheerful, festive"
+        ]
+    },
+    "364": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/neutral_milk_hotel-where_youll_find_me_now.wav",
+        "mood/theme": [
+            "emotional, passionate",
+            "calming, soothing",
+            "sad",
+            "tender, soft",
+            "powerful, strong"
+        ]
+    },
+    "365": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/teenage_fanclub-the_concept.wav",
+        "mood/theme": [
+            "touching, loving",
+            "emotional, passionate",
+            "pleasant, comfortable",
+            "powerful, strong",
+            "loving, romantic"
+        ]
+    },
+    "367": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/abc-poison_arrow.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "powerful, strong",
+            "exciting, thrilling",
+            "happy",
+            "emotional, passionate"
+        ]
+    },
+    "368": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/emma_s_mini-lost.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "arousing, awakening",
+            "powerful, strong",
+            "pleasant, comfortable",
+            "exciting, thrilling"
+        ]
+    },
+    "369": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/backstreet_boys-as_long_as_you_love_me.wav",
+        "mood/theme": [
+            "loving, romantic",
+            "touching, loving",
+            "tender, soft",
+            "emotional, passionate",
+            "calming, soothing"
+        ]
+    },
+    "370": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/pixies-wave_of_mutilation.wav",
+        "mood/theme": [
+            "arousing, awakening"
+        ]
+    },
+    "371": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/pj_harvey-dry.wav",
+        "mood/theme": [
+            "sad"
+        ]
+    },
+    "372": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/no_doubt-simple_kind_of_life.wav",
+        "mood/theme": [
+            "emotional, passionate",
+            "loving, romantic",
+            "sad",
+            "calming, soothing",
+            "pleasant, comfortable"
+        ]
+    },
+    "373": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/britney_spears-im_a_slave_for_you.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "happy",
+            "cheerful, festive",
+            "powerful, strong",
+            "emotional, passionate"
+        ]
+    },
+    "374": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/curandero-aras.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "pleasant, comfortable",
+            "cheerful, festive",
+            "powerful, strong",
+            "emotional, passionate"
+        ]
+    },
+    "375": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/men_at_work-who_can_it_be_now.wav",
+        "mood/theme": [
+            "happy",
+            "pleasant, comfortable",
+            "cheerful, festive",
+            "carefree, lighthearted",
+            "emotional, passionate"
+        ]
+    },
+    "376": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/kansas-carry_on_wayward_son.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "exciting, thrilling",
+            "emotional, passionate",
+            "positive, optimistic",
+            "arousing, awakening"
+        ]
+    },
+    "377": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/ike_and_tina_turner-river_deep_mountain_high.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "cheerful, festive",
+            "powerful, strong",
+            "emotional, passionate",
+            "exciting, thrilling"
+        ]
+    },
+    "378": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/a_tribe_called_quest-bonita_applebum.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "happy",
+            "arousing, awakening",
+            "tender, soft"
+        ]
+    },
+    "379": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/dire_straits-money_for_nothing.wav",
+        "mood/theme": [
+            "cheerful, festive",
+            "light, playful",
+            "happy",
+            "arousing, awakening",
+            "carefree, lighthearted"
+        ]
+    },
+    "380": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/mc_hammer-u_cant_touch_this.wav",
+        "mood/theme": [
+            "happy",
+            "arousing, awakening",
+            "powerful, strong",
+            "exciting, thrilling",
+            "positive, optimistic"
+        ]
+    },
+    "381": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/human_response-angels.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "pleasant, comfortable",
+            "exciting, thrilling",
+            "happy",
+            "calming, soothing"
+        ]
+    },
+    "382": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/vapors-turning_japanese.wav",
+        "mood/theme": [
+            "happy",
+            "arousing, awakening",
+            "carefree, lighthearted",
+            "light, playful",
+            "exciting, thrilling"
+        ]
+    },
+    "383": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/duke_ellington_and_his_orchestra-caravan.wav",
+        "mood/theme": [
+            "happy",
+            "arousing, awakening",
+            "pleasant, comfortable",
+            "exciting, thrilling",
+            "light, playful"
+        ]
+    },
+    "384": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/aaron_neville-tell_it_like_it_is.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "tender, soft",
+            "pleasant, comfortable",
+            "emotional, passionate",
+            "touching, loving"
+        ]
+    },
+    "385": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/evanescence-my_immortal.wav",
+        "mood/theme": [
+            "sad",
+            "tender, soft",
+            "emotional, passionate",
+            "touching, loving",
+            "loving, romantic"
+        ]
+    },
+    "386": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/sonny_rollins-strode_rode.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "arousing, awakening",
+            "pleasant, comfortable",
+            "exciting, thrilling",
+            "light, playful"
+        ]
+    },
+    "387": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/bee_gees-stayin_alive.wav",
+        "mood/theme": [
+            "happy",
+            "cheerful, festive",
+            "exciting, thrilling",
+            "positive, optimistic",
+            "arousing, awakening"
+        ]
+    },
+    "388": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/superchunk-slack_motherfucker.wav",
+        "mood/theme": [
+            "angry, aggressive",
+            "arousing, awakening",
+            "exciting, thrilling",
+            "emotional, passionate",
+            "happy"
+        ]
+    },
+    "389": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/howlin_wolf-moanin_at_midnight.wav",
+        "mood/theme": [
+            "emotional, passionate",
+            "powerful, strong",
+            "sad",
+            "arousing, awakening",
+            "calming, soothing"
+        ]
+    },
+    "390": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/kool_and_the_gang-funky_stuff.wav",
+        "mood/theme": [
+            "happy",
+            "carefree, lighthearted",
+            "arousing, awakening",
+            "cheerful, festive",
+            "positive, optimistic"
+        ]
+    },
+    "391": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/roy_orbison-running_scared.wav",
+        "mood/theme": [
+            "loving, romantic",
+            "emotional, passionate",
+            "powerful, strong",
+            "tender, soft",
+            "touching, loving"
+        ]
+    },
+    "392": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/replacements-answering_machine.wav",
+        "mood/theme": [
+            "emotional, passionate",
+            "powerful, strong",
+            "arousing, awakening",
+            "angry, aggressive",
+            "exciting, thrilling"
+        ]
+    },
+    "393": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/bob_dylan-ill_be_your_baby_tonight.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "emotional, passionate",
+            "tender, soft",
+            "carefree, lighthearted"
+        ]
+    },
+    "394": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/fiona_apple-love_ridden.wav",
+        "mood/theme": [
+            "tender, soft",
+            "emotional, passionate",
+            "sad",
+            "calming, soothing",
+            "pleasant, comfortable"
+        ]
+    },
+    "395": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/paul_mccartney-ebony_and_ivory.wav",
+        "mood/theme": [
+            "happy",
+            "positive, optimistic",
+            "calming, soothing",
+            "pleasant, comfortable",
+            "tender, soft"
+        ]
+    },
+    "396": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/sundays-heres_where_the_story_ends.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "tender, soft",
+            "light, playful",
+            "happy"
+        ]
+    },
+    "397": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/de_la_soul-eye_know.wav",
+        "mood/theme": [
+            "cheerful, festive",
+            "powerful, strong",
+            "carefree, lighthearted",
+            "positive, optimistic",
+            "light, playful"
+        ]
+    },
+    "398": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/snoop_doggy_dogg-gin_and_juice.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "angry, aggressive",
+            "bizarre, weird",
+            "sad",
+            "happy"
+        ]
+    },
+    "399": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/beatundercontrol-this_is_beatundercontrol.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "exciting, thrilling",
+            "powerful, strong",
+            "happy",
+            "bizarre, weird"
+        ]
+    },
+    "400": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/gram_parsons-1000_wedding.wav",
+        "mood/theme": [
+            "sad",
+            "emotional, passionate",
+            "tender, soft",
+            "touching, loving",
+            "pleasant, comfortable"
+        ]
+    },
+    "401": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/urge_overkill-sister_havana.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "powerful, strong",
+            "exciting, thrilling",
+            "emotional, passionate",
+            "positive, optimistic"
+        ]
+    },
+    "402": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/sonic_youth-teen_age_riot.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "arousing, awakening",
+            "cheerful, festive",
+            "exciting, thrilling",
+            "emotional, passionate"
+        ]
+    },
+    "403": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/bomb_the_bass-bug_powder_dust.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "exciting, thrilling",
+            "emotional, passionate",
+            "powerful, strong",
+            "angry, aggressive"
+        ]
+    },
+    "404": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/muddy_waters-im_ready.wav",
+        "mood/theme": [
+            "emotional, passionate",
+            "powerful, strong",
+            "calming, soothing",
+            "pleasant, comfortable",
+            "arousing, awakening"
+        ]
+    },
+    "405": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/tricky-christiansands.wav",
+        "mood/theme": [
+            "bizarre, weird",
+            "angry, aggressive",
+            "sad",
+            "arousing, awakening",
+            "pleasant, comfortable"
+        ]
+    },
+    "406": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/cypress_hill-lowrider.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "exciting, thrilling",
+            "cheerful, festive",
+            "carefree, lighthearted",
+            "emotional, passionate"
+        ]
+    },
+    "407": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/moby-porcelain.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "tender, soft",
+            "powerful, strong",
+            "sad"
+        ]
+    },
+    "408": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/tom_paul-little_part_of_me.wav",
+        "mood/theme": [
+            "tender, soft",
+            "emotional, passionate",
+            "sad",
+            "pleasant, comfortable",
+            "calming, soothing"
+        ]
+    },
+    "409": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/byrds-wasnt_born_to_follow.wav",
+        "mood/theme": [
+            "emotional, passionate",
+            "tender, soft",
+            "bizarre, weird",
+            "positive, optimistic",
+            "happy"
+        ]
+    },
+    "410": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/jay_kishor-raga_malgunji_jor.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "positive, optimistic",
+            "tender, soft",
+            "powerful, strong"
+        ]
+    },
+    "411": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/go-gos-vacation.wav",
+        "mood/theme": [
+            "positive, optimistic",
+            "light, playful",
+            "carefree, lighthearted",
+            "happy",
+            "pleasant, comfortable"
+        ]
+    },
+    "412": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/beth_quist-survival.wav",
+        "mood/theme": [
+            "calming, soothing"
+        ]
+    },
+    "413": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/bobby_womack-womans_gotta_have_it.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "emotional, passionate",
+            "pleasant, comfortable",
+            "loving, romantic",
+            "touching, loving"
+        ]
+    },
+    "414": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/darkness-i_believe_in_a_thing_called_love.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "happy",
+            "powerful, strong",
+            "exciting, thrilling",
+            "cheerful, festive"
+        ]
+    },
+    "415": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/lou_reed-walk_on_the_wild_side.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "light, playful",
+            "pleasant, comfortable",
+            "tender, soft",
+            "happy"
+        ]
+    },
+    "416": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/marvin_gaye-whats_going_on.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "calming, soothing",
+            "tender, soft",
+            "powerful, strong",
+            "loving, romantic"
+        ]
+    },
+    "417": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/temptations-since_i_lost_my_baby.wav",
+        "mood/theme": [
+            "tender, soft",
+            "powerful, strong",
+            "loving, romantic",
+            "touching, loving",
+            "emotional, passionate"
+        ]
+    },
+    "418": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/skitzo-last_depression.wav",
+        "mood/theme": [
+            "angry, aggressive",
+            "powerful, strong",
+            "arousing, awakening",
+            "exciting, thrilling",
+            "sad"
+        ]
+    },
+    "419": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/al_green-sha-la-la_make_me_happy.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "tender, soft",
+            "touching, loving",
+            "calming, soothing",
+            "loving, romantic"
+        ]
+    },
+    "420": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/nova_express-i_m_alive.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "powerful, strong",
+            "emotional, passionate",
+            "happy",
+            "pleasant, comfortable"
+        ]
+    },
+    "421": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/nirvana-aneurysm.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "angry, aggressive",
+            "powerful, strong",
+            "exciting, thrilling",
+            "sad"
+        ]
+    },
+    "422": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/chris_juergensen-prospects.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "carefree, lighthearted",
+            "happy",
+            "cheerful, festive"
+        ]
+    },
+    "423": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/massive_attack-risingson.wav",
+        "mood/theme": [
+            "sad"
+        ]
+    },
+    "424": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/kenji_williams-i_m_alive.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "tender, soft",
+            "loving, romantic",
+            "emotional, passionate",
+            "bizarre, weird"
+        ]
+    },
+    "425": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/buddy_holly-peggy_sue.wav",
+        "mood/theme": [
+            "carefree, lighthearted",
+            "cheerful, festive",
+            "light, playful",
+            "happy",
+            "calming, soothing"
+        ]
+    },
+    "426": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/pizzle-what_s_wrong_with_my_footm.wav",
+        "mood/theme": [
+            "angry, aggressive",
+            "arousing, awakening",
+            "powerful, strong",
+            "exciting, thrilling",
+            "emotional, passionate"
+        ]
+    },
+    "427": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/zapp-dance_floor.wav",
+        "mood/theme": [
+            "happy",
+            "carefree, lighthearted",
+            "light, playful",
+            "positive, optimistic",
+            "cheerful, festive"
+        ]
+    },
+    "428": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/blue_yster_cult-burnin_for_you.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "happy",
+            "positive, optimistic",
+            "light, playful",
+            "carefree, lighthearted"
+        ]
+    },
+    "429": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/jerry_lee_lewis-great_balls_of_fire.wav",
+        "mood/theme": [
+            "happy",
+            "carefree, lighthearted",
+            "arousing, awakening",
+            "exciting, thrilling",
+            "powerful, strong"
+        ]
+    },
+    "430": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/saros-prelude.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "sad",
+            "pleasant, comfortable",
+            "powerful, strong",
+            "tender, soft"
+        ]
+    },
+    "431": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/barbara_leoni-don_t_rain_on_my_parade.wav",
+        "mood/theme": [
+            "carefree, lighthearted",
+            "emotional, passionate",
+            "light, playful",
+            "happy",
+            "arousing, awakening"
+        ]
+    },
+    "432": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/jewel-enter_from_the_east.wav",
+        "mood/theme": [
+            "tender, soft",
+            "touching, loving",
+            "calming, soothing",
+            "pleasant, comfortable",
+            "emotional, passionate"
+        ]
+    },
+    "433": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/jan_and_dean-surf_city.wav",
+        "mood/theme": [
+            "happy",
+            "cheerful, festive",
+            "positive, optimistic",
+            "carefree, lighthearted",
+            "light, playful"
+        ]
+    },
+    "434": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/cc_music_factory-gonna_make_you_sweat_everybody_dance_now.wav",
+        "mood/theme": [
+            "carefree, lighthearted",
+            "light, playful",
+            "happy",
+            "arousing, awakening",
+            "cheerful, festive"
+        ]
+    },
+    "435": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/dave_matthews_band-ants_marching.wav",
+        "mood/theme": [
+            "happy",
+            "pleasant, comfortable",
+            "positive, optimistic",
+            "calming, soothing",
+            "carefree, lighthearted"
+        ]
+    },
+    "436": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/buzzcocks-everybodys_happy_nowadays.wav",
+        "mood/theme": [
+            "happy",
+            "cheerful, festive",
+            "carefree, lighthearted",
+            "positive, optimistic",
+            "calming, soothing"
+        ]
+    },
+    "437": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/tim_buckley-morning_glory.wav",
+        "mood/theme": [
+            "sad",
+            "calming, soothing",
+            "tender, soft",
+            "loving, romantic",
+            "emotional, passionate"
+        ]
+    },
+    "438": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/young_rascals-baby_lets_wait.wav",
+        "mood/theme": [
+            "sad",
+            "tender, soft",
+            "emotional, passionate",
+            "calming, soothing",
+            "pleasant, comfortable"
+        ]
+    },
+    "439": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/olivia_tremor_control-i_have_been_floated.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "bizarre, weird",
+            "carefree, lighthearted",
+            "happy",
+            "arousing, awakening"
+        ]
+    },
+    "440": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/standells-dirty_water.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "carefree, lighthearted",
+            "light, playful",
+            "happy",
+            "powerful, strong"
+        ]
+    },
+    "441": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/adam_and_the_ants-prince_charming.wav",
+        "mood/theme": [
+            "bizarre, weird",
+            "sad",
+            "arousing, awakening",
+            "powerful, strong",
+            "angry, aggressive"
+        ]
+    },
+    "442": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/cardigans-lovefool.wav",
+        "mood/theme": [
+            "light, playful",
+            "happy",
+            "pleasant, comfortable",
+            "carefree, lighthearted",
+            "positive, optimistic"
+        ]
+    },
+    "443": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/buena_vista_social_club-el_cuarto_de_tula.wav",
+        "mood/theme": [
+            "cheerful, festive",
+            "arousing, awakening",
+            "pleasant, comfortable",
+            "exciting, thrilling",
+            "emotional, passionate"
+        ]
+    },
+    "444": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/tori_amos-professional_widow.wav",
+        "mood/theme": [
+            "bizarre, weird",
+            "powerful, strong",
+            "emotional, passionate",
+            "angry, aggressive",
+            "arousing, awakening"
+        ]
+    },
+    "445": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/pet_shop_boys-being_boring.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "emotional, passionate",
+            "tender, soft",
+            "loving, romantic"
+        ]
+    },
+    "446": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/eminem-my_fault.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "light, playful",
+            "arousing, awakening",
+            "angry, aggressive",
+            "sad"
+        ]
+    },
+    "447": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/williamson-whats_on_the_ceiling_beats_whats_on_tv.wav",
+        "mood/theme": [
+            "bizarre, weird",
+            "powerful, strong",
+            "positive, optimistic",
+            "arousing, awakening",
+            "tender, soft"
+        ]
+    },
+    "448": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/faith_no_more-epic.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "arousing, awakening",
+            "exciting, thrilling",
+            "angry, aggressive",
+            "emotional, passionate"
+        ]
+    },
+    "449": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/dj_jazzy_jeff_and_the_fresh_prince-summertime.wav",
+        "mood/theme": [
+            "positive, optimistic",
+            "arousing, awakening",
+            "carefree, lighthearted",
+            "happy",
+            "cheerful, festive"
+        ]
+    },
+    "450": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/billy_bragg-jeane.wav",
+        "mood/theme": [
+            "sad",
+            "powerful, strong",
+            "emotional, passionate",
+            "arousing, awakening",
+            "loving, romantic"
+        ]
+    },
+    "451": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/burnshee_thornside-goodbye_on_a_beautiful_day.wav",
+        "mood/theme": [
+            "tender, soft",
+            "pleasant, comfortable",
+            "emotional, passionate",
+            "positive, optimistic",
+            "touching, loving"
+        ]
+    },
+    "452": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/tilopa-kyo_rei.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "emotional, passionate",
+            "powerful, strong",
+            "pleasant, comfortable",
+            "tender, soft"
+        ]
+    },
+    "453": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/shins-new_slang.wav",
+        "mood/theme": [
+            "tender, soft",
+            "calming, soothing",
+            "emotional, passionate",
+            "touching, loving",
+            "sad"
+        ]
+    },
+    "454": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/leonard_cohen-suzanne.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "tender, soft",
+            "touching, loving",
+            "loving, romantic"
+        ]
+    },
+    "455": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/pink_floyd-echoes.wav",
+        "mood/theme": [
+            "sad",
+            "calming, soothing",
+            "tender, soft",
+            "pleasant, comfortable",
+            "powerful, strong"
+        ]
+    },
+    "456": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/myles_cochran-getting_stronger.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "tender, soft",
+            "pleasant, comfortable",
+            "emotional, passionate",
+            "touching, loving"
+        ]
+    },
+    "457": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/who-bargain.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "powerful, strong",
+            "exciting, thrilling",
+            "emotional, passionate",
+            "cheerful, festive"
+        ]
+    },
+    "458": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/specials-gangsters.wav",
+        "mood/theme": [
+            "happy",
+            "pleasant, comfortable",
+            "arousing, awakening",
+            "cheerful, festive",
+            "light, playful"
+        ]
+    },
+    "459": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/coldplay-clocks.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "calming, soothing",
+            "emotional, passionate",
+            "positive, optimistic",
+            "happy"
+        ]
+    },
+    "460": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/ultravox-dancing_with_tears_in_my_eyes.wav",
+        "mood/theme": [
+            "carefree, lighthearted"
+        ]
+    },
+    "461": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/shuggie_otis-sweet_thang.wav",
+        "mood/theme": [
+            "positive, optimistic",
+            "touching, loving",
+            "calming, soothing",
+            "powerful, strong",
+            "loving, romantic"
+        ]
+    },
+    "462": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/artemis-don_t_look_back.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "tender, soft",
+            "pleasant, comfortable",
+            "emotional, passionate",
+            "arousing, awakening"
+        ]
+    },
+    "463": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/stranglers-golden_brown.wav",
+        "mood/theme": [
+            "bizarre, weird",
+            "sad",
+            "carefree, lighthearted",
+            "happy",
+            "calming, soothing"
+        ]
+    },
+    "464": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/cowboy_junkies-postcard_blues.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "tender, soft",
+            "emotional, passionate",
+            "sad"
+        ]
+    },
+    "465": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/buffalo_springfield-for_what_its_worth.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "arousing, awakening",
+            "pleasant, comfortable",
+            "powerful, strong",
+            "emotional, passionate"
+        ]
+    },
+    "466": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/no_doubt-artificial_sweetener.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "emotional, passionate",
+            "angry, aggressive",
+            "sad",
+            "arousing, awakening"
+        ]
+    },
+    "467": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/cargo_cult-garden.wav",
+        "mood/theme": [
+            "angry, aggressive",
+            "bizarre, weird",
+            "powerful, strong",
+            "exciting, thrilling",
+            "arousing, awakening"
+        ]
+    },
+    "468": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/counting_crows-speedway.wav",
+        "mood/theme": [
+            "sad",
+            "emotional, passionate",
+            "calming, soothing",
+            "pleasant, comfortable",
+            "tender, soft"
+        ]
+    },
+    "469": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/chad_and_jeremy-before_and_after.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "calming, soothing",
+            "tender, soft",
+            "sad",
+            "emotional, passionate"
+        ]
+    },
+    "470": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/mr_gelatine-knysnamushrooms.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "powerful, strong",
+            "calming, soothing",
+            "arousing, awakening",
+            "happy"
+        ]
+    },
+    "471": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/version-universal_humans.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "carefree, lighthearted",
+            "sad",
+            "tender, soft"
+        ]
+    },
+    "472": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/captain_beefheart_and_the_magic_band-safe_as_milk.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "emotional, passionate",
+            "angry, aggressive",
+            "bizarre, weird",
+            "arousing, awakening"
+        ]
+    },
+    "473": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/norah_jones-dont_know_why.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "tender, soft",
+            "loving, romantic",
+            "emotional, passionate"
+        ]
+    },
+    "474": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/kris_kristofferson-the_best_of_all_possible_worlds.wav",
+        "mood/theme": [
+            "sad"
+        ]
+    },
+    "475": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/lambert_hendricks_and_ross-gimme_that_wine.wav",
+        "mood/theme": [
+            "happy",
+            "pleasant, comfortable",
+            "light, playful",
+            "arousing, awakening",
+            "carefree, lighthearted"
+        ]
+    },
+    "476": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/dennis_brown-tribulation.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "powerful, strong",
+            "emotional, passionate",
+            "calming, soothing",
+            "sad"
+        ]
+    },
+    "477": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/seismic_anamoly-wreckinball.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "exciting, thrilling",
+            "angry, aggressive",
+            "powerful, strong",
+            "pleasant, comfortable"
+        ]
+    },
+    "478": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/grateful_dead-high_time.wav",
+        "mood/theme": [
+            "tender, soft",
+            "calming, soothing",
+            "loving, romantic",
+            "emotional, passionate",
+            "positive, optimistic"
+        ]
+    },
+    "479": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/live-lightning_crashes.wav",
+        "mood/theme": [
+            "emotional, passionate",
+            "touching, loving",
+            "sad",
+            "powerful, strong",
+            "loving, romantic"
+        ]
+    },
+    "480": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/camper_van_beethoven-take_the_skinheads_bowling.wav",
+        "mood/theme": [
+            "cheerful, festive",
+            "carefree, lighthearted",
+            "positive, optimistic",
+            "pleasant, comfortable",
+            "exciting, thrilling"
+        ]
+    },
+    "481": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/tim_hardin-dont_make_promises.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "loving, romantic",
+            "sad",
+            "emotional, passionate"
+        ]
+    },
+    "482": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/r.e.m.-camera.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "sad",
+            "tender, soft",
+            "emotional, passionate"
+        ]
+    },
+    "483": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/scott_hill-silk_road.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "tender, soft",
+            "sad",
+            "powerful, strong"
+        ]
+    },
+    "484": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/ray_charles-hit_the_road_jack.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "emotional, passionate",
+            "arousing, awakening",
+            "pleasant, comfortable",
+            "sad"
+        ]
+    },
+    "485": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/foo_fighters-big_me.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "positive, optimistic",
+            "pleasant, comfortable",
+            "happy",
+            "tender, soft"
+        ]
+    },
+    "486": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/duncan_sheik-barely_breathing.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "happy",
+            "carefree, lighthearted",
+            "positive, optimistic",
+            "light, playful"
+        ]
+    },
+    "487": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/bobby_fuller_four-i_fought_the_law.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "pleasant, comfortable",
+            "powerful, strong",
+            "exciting, thrilling",
+            "cheerful, festive"
+        ]
+    },
+    "488": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/jamie_janover-event_horizon.wav",
+        "mood/theme": [
+            "calming, soothing",
+            "pleasant, comfortable",
+            "tender, soft",
+            "happy",
+            "positive, optimistic"
+        ]
+    },
+    "489": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/dido-here_with_me.wav",
+        "mood/theme": [
+            "pleasant, comfortable",
+            "calming, soothing",
+            "tender, soft",
+            "loving, romantic",
+            "emotional, passionate"
+        ]
+    },
+    "490": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/tommy_james_and_the_shondells-i_think_were_alone_now.wav",
+        "mood/theme": [
+            "carefree, lighthearted",
+            "happy",
+            "pleasant, comfortable",
+            "cheerful, festive",
+            "positive, optimistic"
+        ]
+    },
+    "491": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/modest_mouse-what_people_are_made_of.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "angry, aggressive",
+            "exciting, thrilling",
+            "arousing, awakening",
+            "emotional, passionate"
+        ]
+    },
+    "492": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/syd_barrett-effervescing_elephant.wav",
+        "mood/theme": [
+            "bizarre, weird",
+            "happy",
+            "carefree, lighthearted",
+            "cheerful, festive",
+            "light, playful"
+        ]
+    },
+    "493": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/blur-country_house.wav",
+        "mood/theme": [
+            "happy",
+            "pleasant, comfortable",
+            "cheerful, festive",
+            "carefree, lighthearted",
+            "positive, optimistic"
+        ]
+    },
+    "494": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/sheryl_crow-i_shall_believe.wav",
+        "mood/theme": [
+            "tender, soft",
+            "emotional, passionate",
+            "calming, soothing",
+            "sad",
+            "pleasant, comfortable"
+        ]
+    },
+    "495": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/canned_heat-on_the_road_again.wav",
+        "mood/theme": [
+            "emotional, passionate",
+            "pleasant, comfortable",
+            "positive, optimistic",
+            "calming, soothing",
+            "tender, soft"
+        ]
+    },
+    "496": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/roots_of_rebellion-legend.wav",
+        "mood/theme": [
+            "arousing, awakening",
+            "powerful, strong",
+            "exciting, thrilling",
+            "sad",
+            "angry, aggressive"
+        ]
+    },
+    "497": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/kokoon-order.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "exciting, thrilling",
+            "arousing, awakening",
+            "pleasant, comfortable",
+            "happy"
+        ]
+    },
+    "498": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/blind_melon-no_rain.wav",
+        "mood/theme": [
+            "carefree, lighthearted",
+            "cheerful, festive",
+            "light, playful",
+            "happy",
+            "tender, soft"
+        ]
+    },
+    "499": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/love-you_set_the_scene.wav",
+        "mood/theme": [
+            "happy",
+            "pleasant, comfortable",
+            "powerful, strong",
+            "positive, optimistic",
+            "light, playful"
+        ]
+    },
+    "500": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/mary_wells-my_guy.wav",
+        "mood/theme": [
+            "loving, romantic",
+            "happy",
+            "carefree, lighthearted",
+            "light, playful",
+            "cheerful, festive"
+        ]
+    },
+    "501": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/barry_white-cant_get_enough_of_your_love_babe.wav",
+        "mood/theme": [
+            "powerful, strong",
+            "loving, romantic",
+            "emotional, passionate",
+            "arousing, awakening",
+            "tender, soft"
+        ]
+    },
+    "502": {
+        "path": "/renhangx/alignment/datasets/CAL500_32kps_wav/erasure-chains_of_love.wav",
+        "mood/theme": [
+            "emotional, passionate",
+            "positive, optimistic",
+            "cheerful, festive",
+            "happy",
+            "arousing, awakening"
+        ]
+    }
+}

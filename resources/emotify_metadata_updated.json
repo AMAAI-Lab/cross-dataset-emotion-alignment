@@ -1,0 +1,3202 @@
+{
+    "1,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/1.wav",
+        "mood/theme": [
+            "calmness",
+            "solemnity",
+            "sadness"
+        ]
+    },
+    "2,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/2.wav",
+        "mood/theme": [
+            "calmness",
+            "tenderness",
+            "nostalgia"
+        ]
+    },
+    "3,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/3.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "solemnity",
+            "power"
+        ]
+    },
+    "4,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/4.wav",
+        "mood/theme": [
+            "calmness",
+            "tenderness",
+            "nostalgia"
+        ]
+    },
+    "5,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/5.wav",
+        "mood/theme": [
+            "nostalgia",
+            "tenderness",
+            "calmness"
+        ]
+    },
+    "6,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/6.wav",
+        "mood/theme": [
+            "calmness",
+            "nostalgia",
+            "joyful_activation"
+        ]
+    },
+    "7,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/7.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "amazement",
+            "power"
+        ]
+    },
+    "8,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/8.wav",
+        "mood/theme": [
+            "calmness",
+            "tenderness",
+            "nostalgia"
+        ]
+    },
+    "9,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/9.wav",
+        "mood/theme": [
+            "calmness",
+            "nostalgia",
+            "sadness"
+        ]
+    },
+    "10,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/10.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "power",
+            "amazement"
+        ]
+    },
+    "11,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/11.wav",
+        "mood/theme": [
+            "nostalgia",
+            "sadness",
+            "calmness"
+        ]
+    },
+    "12,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/12.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "amazement",
+            "tenderness"
+        ]
+    },
+    "13,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/13.wav",
+        "mood/theme": [
+            "nostalgia",
+            "calmness",
+            "solemnity"
+        ]
+    },
+    "14,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/14.wav",
+        "mood/theme": [
+            "calmness",
+            "nostalgia",
+            "tenderness"
+        ]
+    },
+    "15,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/15.wav",
+        "mood/theme": [
+            "nostalgia",
+            "sadness",
+            "calmness"
+        ]
+    },
+    "16,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/16.wav",
+        "mood/theme": [
+            "power",
+            "tension",
+            "solemnity"
+        ]
+    },
+    "17,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/17.wav",
+        "mood/theme": [
+            "calmness",
+            "tenderness",
+            "nostalgia"
+        ]
+    },
+    "18,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/18.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "amazement",
+            "solemnity"
+        ]
+    },
+    "19,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/19.wav",
+        "mood/theme": [
+            "calmness",
+            "solemnity",
+            "tenderness"
+        ]
+    },
+    "20,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/20.wav",
+        "mood/theme": [
+            "calmness",
+            "solemnity",
+            "nostalgia"
+        ]
+    },
+    "21,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/21.wav",
+        "mood/theme": [
+            "calmness",
+            "tenderness",
+            "nostalgia"
+        ]
+    },
+    "22,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/22.wav",
+        "mood/theme": [
+            "tenderness",
+            "calmness",
+            "joyful_activation"
+        ]
+    },
+    "23,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/23.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "solemnity",
+            "power"
+        ]
+    },
+    "24,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/24.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "power",
+            "tension"
+        ]
+    },
+    "25,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/25.wav",
+        "mood/theme": [
+            "solemnity",
+            "nostalgia",
+            "calmness"
+        ]
+    },
+    "26,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/26.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "power",
+            "amazement"
+        ]
+    },
+    "27,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/27.wav",
+        "mood/theme": [
+            "power",
+            "solemnity",
+            "tension"
+        ]
+    },
+    "28,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/28.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "calmness",
+            "amazement"
+        ]
+    },
+    "29,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/29.wav",
+        "mood/theme": [
+            "calmness",
+            "sadness",
+            "solemnity"
+        ]
+    },
+    "30,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/30.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "amazement",
+            "power"
+        ]
+    },
+    "31,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/31.wav",
+        "mood/theme": [
+            "nostalgia",
+            "calmness",
+            "tenderness"
+        ]
+    },
+    "32,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/32.wav",
+        "mood/theme": [
+            "calmness",
+            "nostalgia",
+            "sadness"
+        ]
+    },
+    "33,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/33.wav",
+        "mood/theme": [
+            "calmness",
+            "tenderness",
+            "nostalgia"
+        ]
+    },
+    "34,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/34.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "calmness",
+            "amazement"
+        ]
+    },
+    "35,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/35.wav",
+        "mood/theme": [
+            "calmness",
+            "tenderness",
+            "nostalgia"
+        ]
+    },
+    "36,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/36.wav",
+        "mood/theme": [
+            "calmness",
+            "nostalgia",
+            "tenderness"
+        ]
+    },
+    "37,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/37.wav",
+        "mood/theme": [
+            "tenderness",
+            "nostalgia",
+            "calmness"
+        ]
+    },
+    "38,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/38.wav",
+        "mood/theme": [
+            "calmness",
+            "nostalgia",
+            "sadness"
+        ]
+    },
+    "39,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/39.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "amazement",
+            "power"
+        ]
+    },
+    "40,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/40.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "power",
+            "tension"
+        ]
+    },
+    "41,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/41.wav",
+        "mood/theme": [
+            "solemnity",
+            "nostalgia",
+            "calmness"
+        ]
+    },
+    "42,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/42.wav",
+        "mood/theme": [
+            "calmness",
+            "tenderness",
+            "amazement"
+        ]
+    },
+    "43,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/43.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "sadness",
+            "amazement"
+        ]
+    },
+    "44,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/44.wav",
+        "mood/theme": [
+            "calmness",
+            "solemnity",
+            "tenderness"
+        ]
+    },
+    "45,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/45.wav",
+        "mood/theme": [
+            "calmness",
+            "sadness",
+            "nostalgia"
+        ]
+    },
+    "46,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/46.wav",
+        "mood/theme": [
+            "calmness",
+            "tenderness",
+            "nostalgia"
+        ]
+    },
+    "47,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/47.wav",
+        "mood/theme": [
+            "sadness",
+            "nostalgia",
+            "calmness"
+        ]
+    },
+    "48,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/48.wav",
+        "mood/theme": [
+            "solemnity",
+            "nostalgia",
+            "tension"
+        ]
+    },
+    "49,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/49.wav",
+        "mood/theme": [
+            "sadness",
+            "solemnity",
+            "tension"
+        ]
+    },
+    "50,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/50.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "solemnity",
+            "power"
+        ]
+    },
+    "51,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/51.wav",
+        "mood/theme": [
+            "nostalgia",
+            "sadness",
+            "calmness"
+        ]
+    },
+    "52,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/52.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "tension",
+            "solemnity"
+        ]
+    },
+    "53,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/53.wav",
+        "mood/theme": [
+            "tension",
+            "solemnity",
+            "joyful_activation"
+        ]
+    },
+    "54,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/54.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "calmness",
+            "power"
+        ]
+    },
+    "55,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/55.wav",
+        "mood/theme": [
+            "calmness",
+            "tenderness",
+            "tension"
+        ]
+    },
+    "56,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/56.wav",
+        "mood/theme": [
+            "calmness",
+            "tenderness",
+            "nostalgia"
+        ]
+    },
+    "57,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/57.wav",
+        "mood/theme": [
+            "solemnity",
+            "sadness",
+            "amazement"
+        ]
+    },
+    "58,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/58.wav",
+        "mood/theme": [
+            "power",
+            "tension",
+            "solemnity"
+        ]
+    },
+    "59,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/59.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "power",
+            "tension"
+        ]
+    },
+    "60,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/60.wav",
+        "mood/theme": [
+            "nostalgia",
+            "calmness",
+            "sadness"
+        ]
+    },
+    "61,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/61.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "tension",
+            "amazement"
+        ]
+    },
+    "62,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/62.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "tension",
+            "nostalgia"
+        ]
+    },
+    "63,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/63.wav",
+        "mood/theme": [
+            "calmness",
+            "nostalgia",
+            "solemnity"
+        ]
+    },
+    "64,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/64.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "amazement",
+            "calmness"
+        ]
+    },
+    "65,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/65.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "power",
+            "tension"
+        ]
+    },
+    "66,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/66.wav",
+        "mood/theme": [
+            "tension",
+            "solemnity",
+            "joyful_activation"
+        ]
+    },
+    "67,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/67.wav",
+        "mood/theme": [
+            "calmness",
+            "tenderness",
+            "joyful_activation"
+        ]
+    },
+    "68,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/68.wav",
+        "mood/theme": [
+            "calmness",
+            "nostalgia",
+            "tenderness"
+        ]
+    },
+    "69,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/69.wav",
+        "mood/theme": [
+            "tenderness",
+            "calmness",
+            "nostalgia"
+        ]
+    },
+    "70,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/70.wav",
+        "mood/theme": [
+            "nostalgia",
+            "calmness",
+            "solemnity"
+        ]
+    },
+    "71,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/71.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "solemnity",
+            "calmness"
+        ]
+    },
+    "72,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/72.wav",
+        "mood/theme": [
+            "solemnity",
+            "calmness",
+            "joyful_activation"
+        ]
+    },
+    "73,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/73.wav",
+        "mood/theme": [
+            "nostalgia",
+            "calmness",
+            "tension"
+        ]
+    },
+    "74,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/74.wav",
+        "mood/theme": [
+            "tension",
+            "joyful_activation",
+            "amazement"
+        ]
+    },
+    "75,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/75.wav",
+        "mood/theme": [
+            "tension",
+            "joyful_activation",
+            "power"
+        ]
+    },
+    "76,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/76.wav",
+        "mood/theme": [
+            "tension",
+            "solemnity",
+            "joyful_activation"
+        ]
+    },
+    "77,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/77.wav",
+        "mood/theme": [
+            "calmness",
+            "tenderness",
+            "nostalgia"
+        ]
+    },
+    "78,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/78.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "tension",
+            "power"
+        ]
+    },
+    "79,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/79.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "nostalgia",
+            "calmness"
+        ]
+    },
+    "80,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/80.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "solemnity",
+            "calmness"
+        ]
+    },
+    "81,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/81.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "solemnity",
+            "power"
+        ]
+    },
+    "82,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/82.wav",
+        "mood/theme": [
+            "calmness",
+            "nostalgia",
+            "tenderness"
+        ]
+    },
+    "83,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/83.wav",
+        "mood/theme": [
+            "nostalgia",
+            "joyful_activation",
+            "sadness"
+        ]
+    },
+    "84,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/84.wav",
+        "mood/theme": [
+            "solemnity",
+            "calmness",
+            "nostalgia"
+        ]
+    },
+    "85,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/85.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "amazement",
+            "tension"
+        ]
+    },
+    "86,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/86.wav",
+        "mood/theme": [
+            "tension",
+            "solemnity",
+            "calmness"
+        ]
+    },
+    "87,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/87.wav",
+        "mood/theme": [
+            "calmness",
+            "nostalgia",
+            "sadness"
+        ]
+    },
+    "88,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/88.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "tension",
+            "amazement"
+        ]
+    },
+    "89,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/89.wav",
+        "mood/theme": [
+            "calmness",
+            "tenderness",
+            "nostalgia"
+        ]
+    },
+    "90,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/90.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "tension",
+            "solemnity"
+        ]
+    },
+    "91,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/91.wav",
+        "mood/theme": [
+            "sadness",
+            "solemnity",
+            "calmness"
+        ]
+    },
+    "92,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/92.wav",
+        "mood/theme": [
+            "calmness",
+            "solemnity",
+            "nostalgia"
+        ]
+    },
+    "93,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/93.wav",
+        "mood/theme": [
+            "calmness",
+            "tenderness",
+            "nostalgia"
+        ]
+    },
+    "94,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/94.wav",
+        "mood/theme": [
+            "solemnity",
+            "calmness",
+            "amazement"
+        ]
+    },
+    "95,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/95.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "amazement",
+            "tenderness"
+        ]
+    },
+    "96,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/96.wav",
+        "mood/theme": [
+            "calmness",
+            "tenderness",
+            "joyful_activation"
+        ]
+    },
+    "97,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/97.wav",
+        "mood/theme": [
+            "solemnity",
+            "sadness",
+            "tension"
+        ]
+    },
+    "98,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/98.wav",
+        "mood/theme": [
+            "calmness",
+            "solemnity",
+            "nostalgia"
+        ]
+    },
+    "99,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/99.wav",
+        "mood/theme": [
+            "calmness",
+            "tenderness",
+            "nostalgia"
+        ]
+    },
+    "100,classical": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/classical/100.wav",
+        "mood/theme": [
+            "power",
+            "solemnity",
+            "tension"
+        ]
+    },
+    "101,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/1.wav",
+        "mood/theme": [
+            "nostalgia",
+            "sadness",
+            "solemnity"
+        ]
+    },
+    "102,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/2.wav",
+        "mood/theme": [
+            "nostalgia",
+            "tenderness",
+            "calmness"
+        ]
+    },
+    "103,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/3.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "power",
+            "tension"
+        ]
+    },
+    "104,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/4.wav",
+        "mood/theme": [
+            "nostalgia",
+            "tenderness",
+            "calmness"
+        ]
+    },
+    "105,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/5.wav",
+        "mood/theme": [
+            "sadness",
+            "nostalgia",
+            "power"
+        ]
+    },
+    "106,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/6.wav",
+        "mood/theme": [
+            "nostalgia",
+            "sadness",
+            "calmness"
+        ]
+    },
+    "107,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/7.wav",
+        "mood/theme": [
+            "calmness",
+            "solemnity",
+            "joyful_activation"
+        ]
+    },
+    "108,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/8.wav",
+        "mood/theme": [
+            "nostalgia",
+            "tension",
+            "solemnity"
+        ]
+    },
+    "109,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/9.wav",
+        "mood/theme": [
+            "power",
+            "joyful_activation",
+            "tension"
+        ]
+    },
+    "110,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/10.wav",
+        "mood/theme": [
+            "power",
+            "sadness",
+            "tension"
+        ]
+    },
+    "111,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/11.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "power",
+            "amazement"
+        ]
+    },
+    "112,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/12.wav",
+        "mood/theme": [
+            "nostalgia",
+            "calmness",
+            "tension"
+        ]
+    },
+    "113,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/13.wav",
+        "mood/theme": [
+            "tenderness",
+            "nostalgia",
+            "calmness"
+        ]
+    },
+    "114,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/14.wav",
+        "mood/theme": [
+            "power",
+            "nostalgia",
+            "solemnity"
+        ]
+    },
+    "115,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/15.wav",
+        "mood/theme": [
+            "power",
+            "sadness",
+            "nostalgia"
+        ]
+    },
+    "116,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/16.wav",
+        "mood/theme": [
+            "nostalgia",
+            "tenderness",
+            "calmness"
+        ]
+    },
+    "117,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/17.wav",
+        "mood/theme": [
+            "calmness",
+            "nostalgia",
+            "tenderness"
+        ]
+    },
+    "118,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/18.wav",
+        "mood/theme": [
+            "tenderness",
+            "nostalgia",
+            "calmness"
+        ]
+    },
+    "119,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/19.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "power",
+            "amazement"
+        ]
+    },
+    "120,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/20.wav",
+        "mood/theme": [
+            "nostalgia",
+            "tenderness",
+            "power"
+        ]
+    },
+    "121,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/21.wav",
+        "mood/theme": [
+            "power",
+            "tension",
+            "amazement"
+        ]
+    },
+    "122,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/22.wav",
+        "mood/theme": [
+            "tenderness",
+            "nostalgia",
+            "calmness"
+        ]
+    },
+    "123,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/23.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "power",
+            "tension"
+        ]
+    },
+    "124,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/24.wav",
+        "mood/theme": [
+            "sadness",
+            "nostalgia",
+            "calmness"
+        ]
+    },
+    "125,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/25.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "tension",
+            "nostalgia"
+        ]
+    },
+    "126,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/26.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "power",
+            "tension"
+        ]
+    },
+    "127,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/27.wav",
+        "mood/theme": [
+            "tension",
+            "joyful_activation",
+            "nostalgia"
+        ]
+    },
+    "128,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/28.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "amazement",
+            "nostalgia"
+        ]
+    },
+    "129,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/29.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "power",
+            "amazement"
+        ]
+    },
+    "130,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/30.wav",
+        "mood/theme": [
+            "solemnity",
+            "power",
+            "tension"
+        ]
+    },
+    "131,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/31.wav",
+        "mood/theme": [
+            "sadness",
+            "tension",
+            "nostalgia"
+        ]
+    },
+    "132,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/32.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "nostalgia",
+            "tenderness"
+        ]
+    },
+    "133,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/33.wav",
+        "mood/theme": [
+            "calmness",
+            "nostalgia",
+            "sadness"
+        ]
+    },
+    "134,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/34.wav",
+        "mood/theme": [
+            "tenderness",
+            "calmness",
+            "nostalgia"
+        ]
+    },
+    "135,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/35.wav",
+        "mood/theme": [
+            "calmness",
+            "tenderness",
+            "tension"
+        ]
+    },
+    "136,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/36.wav",
+        "mood/theme": [
+            "power",
+            "tension",
+            "joyful_activation"
+        ]
+    },
+    "137,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/37.wav",
+        "mood/theme": [
+            "power",
+            "joyful_activation",
+            "tension"
+        ]
+    },
+    "138,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/38.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "power",
+            "amazement"
+        ]
+    },
+    "139,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/39.wav",
+        "mood/theme": [
+            "power",
+            "tension",
+            "sadness"
+        ]
+    },
+    "140,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/40.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "power",
+            "amazement"
+        ]
+    },
+    "141,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/41.wav",
+        "mood/theme": [
+            "sadness",
+            "nostalgia",
+            "power"
+        ]
+    },
+    "142,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/42.wav",
+        "mood/theme": [
+            "sadness",
+            "calmness",
+            "tension"
+        ]
+    },
+    "143,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/43.wav",
+        "mood/theme": [
+            "calmness",
+            "joyful_activation",
+            "solemnity"
+        ]
+    },
+    "144,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/44.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "tension",
+            "amazement"
+        ]
+    },
+    "145,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/45.wav",
+        "mood/theme": [
+            "calmness",
+            "nostalgia",
+            "sadness"
+        ]
+    },
+    "146,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/46.wav",
+        "mood/theme": [
+            "nostalgia",
+            "sadness",
+            "solemnity"
+        ]
+    },
+    "147,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/47.wav",
+        "mood/theme": [
+            "nostalgia",
+            "calmness",
+            "joyful_activation"
+        ]
+    },
+    "148,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/48.wav",
+        "mood/theme": [
+            "amazement",
+            "joyful_activation",
+            "nostalgia"
+        ]
+    },
+    "149,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/49.wav",
+        "mood/theme": [
+            "calmness",
+            "nostalgia",
+            "tenderness"
+        ]
+    },
+    "150,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/50.wav",
+        "mood/theme": [
+            "solemnity",
+            "calmness",
+            "tension"
+        ]
+    },
+    "151,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/51.wav",
+        "mood/theme": [
+            "nostalgia",
+            "joyful_activation",
+            "power"
+        ]
+    },
+    "152,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/52.wav",
+        "mood/theme": [
+            "power",
+            "nostalgia",
+            "tension"
+        ]
+    },
+    "153,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/53.wav",
+        "mood/theme": [
+            "nostalgia",
+            "sadness",
+            "calmness"
+        ]
+    },
+    "154,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/54.wav",
+        "mood/theme": [
+            "nostalgia",
+            "calmness",
+            "joyful_activation"
+        ]
+    },
+    "155,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/55.wav",
+        "mood/theme": [
+            "solemnity",
+            "nostalgia",
+            "calmness"
+        ]
+    },
+    "156,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/56.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "power",
+            "amazement"
+        ]
+    },
+    "157,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/57.wav",
+        "mood/theme": [
+            "tension",
+            "sadness",
+            "solemnity"
+        ]
+    },
+    "158,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/58.wav",
+        "mood/theme": [
+            "amazement",
+            "calmness",
+            "solemnity"
+        ]
+    },
+    "159,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/59.wav",
+        "mood/theme": [
+            "nostalgia",
+            "tenderness",
+            "calmness"
+        ]
+    },
+    "160,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/60.wav",
+        "mood/theme": [
+            "tension",
+            "joyful_activation",
+            "tenderness"
+        ]
+    },
+    "161,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/61.wav",
+        "mood/theme": [
+            "tension",
+            "power",
+            "solemnity"
+        ]
+    },
+    "162,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/62.wav",
+        "mood/theme": [
+            "power",
+            "joyful_activation",
+            "tension"
+        ]
+    },
+    "163,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/63.wav",
+        "mood/theme": [
+            "nostalgia",
+            "power",
+            "tenderness"
+        ]
+    },
+    "164,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/64.wav",
+        "mood/theme": [
+            "tenderness",
+            "nostalgia",
+            "sadness"
+        ]
+    },
+    "165,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/65.wav",
+        "mood/theme": [
+            "tenderness",
+            "calmness",
+            "nostalgia"
+        ]
+    },
+    "166,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/66.wav",
+        "mood/theme": [
+            "nostalgia",
+            "joyful_activation",
+            "amazement"
+        ]
+    },
+    "167,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/67.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "nostalgia",
+            "amazement"
+        ]
+    },
+    "168,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/68.wav",
+        "mood/theme": [
+            "nostalgia",
+            "calmness",
+            "sadness"
+        ]
+    },
+    "169,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/69.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "power",
+            "amazement"
+        ]
+    },
+    "170,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/70.wav",
+        "mood/theme": [
+            "nostalgia",
+            "tenderness",
+            "calmness"
+        ]
+    },
+    "171,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/71.wav",
+        "mood/theme": [
+            "tension",
+            "power",
+            "joyful_activation"
+        ]
+    },
+    "172,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/72.wav",
+        "mood/theme": [
+            "nostalgia",
+            "tenderness",
+            "calmness"
+        ]
+    },
+    "173,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/73.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "calmness",
+            "nostalgia"
+        ]
+    },
+    "174,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/74.wav",
+        "mood/theme": [
+            "power",
+            "tension",
+            "joyful_activation"
+        ]
+    },
+    "175,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/75.wav",
+        "mood/theme": [
+            "nostalgia",
+            "tenderness",
+            "calmness"
+        ]
+    },
+    "176,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/76.wav",
+        "mood/theme": [
+            "sadness",
+            "nostalgia",
+            "calmness"
+        ]
+    },
+    "177,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/77.wav",
+        "mood/theme": [
+            "calmness",
+            "tenderness",
+            "nostalgia"
+        ]
+    },
+    "178,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/78.wav",
+        "mood/theme": [
+            "calmness",
+            "tenderness",
+            "amazement"
+        ]
+    },
+    "179,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/79.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "tension",
+            "nostalgia"
+        ]
+    },
+    "180,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/80.wav",
+        "mood/theme": [
+            "sadness",
+            "calmness",
+            "power"
+        ]
+    },
+    "181,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/81.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "tenderness",
+            "calmness"
+        ]
+    },
+    "182,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/82.wav",
+        "mood/theme": [
+            "tenderness",
+            "calmness",
+            "nostalgia"
+        ]
+    },
+    "183,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/83.wav",
+        "mood/theme": [
+            "calmness",
+            "nostalgia",
+            "tenderness"
+        ]
+    },
+    "184,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/84.wav",
+        "mood/theme": [
+            "calmness",
+            "nostalgia",
+            "tenderness"
+        ]
+    },
+    "185,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/85.wav",
+        "mood/theme": [
+            "power",
+            "joyful_activation",
+            "tension"
+        ]
+    },
+    "186,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/86.wav",
+        "mood/theme": [
+            "tenderness",
+            "nostalgia",
+            "power"
+        ]
+    },
+    "187,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/87.wav",
+        "mood/theme": [
+            "calmness",
+            "solemnity",
+            "nostalgia"
+        ]
+    },
+    "188,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/88.wav",
+        "mood/theme": [
+            "nostalgia",
+            "tenderness",
+            "sadness"
+        ]
+    },
+    "189,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/89.wav",
+        "mood/theme": [
+            "tenderness",
+            "joyful_activation",
+            "calmness"
+        ]
+    },
+    "190,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/90.wav",
+        "mood/theme": [
+            "nostalgia",
+            "calmness",
+            "tenderness"
+        ]
+    },
+    "191,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/91.wav",
+        "mood/theme": [
+            "tenderness",
+            "nostalgia",
+            "calmness"
+        ]
+    },
+    "192,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/92.wav",
+        "mood/theme": [
+            "tenderness",
+            "nostalgia",
+            "calmness"
+        ]
+    },
+    "193,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/93.wav",
+        "mood/theme": [
+            "sadness",
+            "nostalgia",
+            "tenderness"
+        ]
+    },
+    "194,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/94.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "calmness",
+            "sadness"
+        ]
+    },
+    "195,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/95.wav",
+        "mood/theme": [
+            "nostalgia",
+            "calmness",
+            "tenderness"
+        ]
+    },
+    "196,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/96.wav",
+        "mood/theme": [
+            "nostalgia",
+            "calmness",
+            "joyful_activation"
+        ]
+    },
+    "197,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/97.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "power",
+            "tension"
+        ]
+    },
+    "198,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/98.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "power",
+            "amazement"
+        ]
+    },
+    "199,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/99.wav",
+        "mood/theme": [
+            "power",
+            "amazement",
+            "joyful_activation"
+        ]
+    },
+    "200,rock": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/rock/100.wav",
+        "mood/theme": [
+            "tenderness",
+            "amazement",
+            "nostalgia"
+        ]
+    },
+    "201,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/1.wav",
+        "mood/theme": [
+            "tension",
+            "joyful_activation",
+            "power"
+        ]
+    },
+    "202,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/2.wav",
+        "mood/theme": [
+            "calmness",
+            "joyful_activation",
+            "tension"
+        ]
+    },
+    "203,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/3.wav",
+        "mood/theme": [
+            "tension",
+            "power",
+            "solemnity"
+        ]
+    },
+    "204,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/4.wav",
+        "mood/theme": [
+            "tension",
+            "power",
+            "solemnity"
+        ]
+    },
+    "205,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/5.wav",
+        "mood/theme": [
+            "calmness",
+            "tenderness",
+            "nostalgia"
+        ]
+    },
+    "206,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/6.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "tension",
+            "power"
+        ]
+    },
+    "207,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/7.wav",
+        "mood/theme": [
+            "tension",
+            "joyful_activation",
+            "calmness"
+        ]
+    },
+    "208,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/8.wav",
+        "mood/theme": [
+            "calmness",
+            "solemnity",
+            "tension"
+        ]
+    },
+    "209,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/9.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "tension",
+            "power"
+        ]
+    },
+    "210,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/10.wav",
+        "mood/theme": [
+            "tension",
+            "solemnity",
+            "calmness"
+        ]
+    },
+    "211,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/11.wav",
+        "mood/theme": [
+            "tension",
+            "joyful_activation",
+            "calmness"
+        ]
+    },
+    "212,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/12.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "power",
+            "tension"
+        ]
+    },
+    "213,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/13.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "calmness",
+            "tension"
+        ]
+    },
+    "214,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/14.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "tension",
+            "nostalgia"
+        ]
+    },
+    "215,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/15.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "calmness",
+            "tension"
+        ]
+    },
+    "216,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/16.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "tension",
+            "power"
+        ]
+    },
+    "217,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/17.wav",
+        "mood/theme": [
+            "calmness",
+            "nostalgia",
+            "tenderness"
+        ]
+    },
+    "218,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/18.wav",
+        "mood/theme": [
+            "calmness",
+            "tension",
+            "solemnity"
+        ]
+    },
+    "219,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/19.wav",
+        "mood/theme": [
+            "calmness",
+            "sadness",
+            "solemnity"
+        ]
+    },
+    "220,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/20.wav",
+        "mood/theme": [
+            "calmness",
+            "amazement",
+            "nostalgia"
+        ]
+    },
+    "221,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/21.wav",
+        "mood/theme": [
+            "solemnity",
+            "power",
+            "tension"
+        ]
+    },
+    "222,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/22.wav",
+        "mood/theme": [
+            "tension",
+            "power",
+            "joyful_activation"
+        ]
+    },
+    "223,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/23.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "tension",
+            "power"
+        ]
+    },
+    "224,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/24.wav",
+        "mood/theme": [
+            "calmness",
+            "solemnity",
+            "tenderness"
+        ]
+    },
+    "225,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/25.wav",
+        "mood/theme": [
+            "tension",
+            "calmness",
+            "solemnity"
+        ]
+    },
+    "226,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/26.wav",
+        "mood/theme": [
+            "solemnity",
+            "calmness",
+            "nostalgia"
+        ]
+    },
+    "227,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/27.wav",
+        "mood/theme": [
+            "calmness",
+            "amazement",
+            "solemnity"
+        ]
+    },
+    "228,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/28.wav",
+        "mood/theme": [
+            "power",
+            "joyful_activation",
+            "amazement"
+        ]
+    },
+    "229,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/29.wav",
+        "mood/theme": [
+            "tension",
+            "power",
+            "joyful_activation"
+        ]
+    },
+    "230,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/30.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "power",
+            "tension"
+        ]
+    },
+    "231,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/31.wav",
+        "mood/theme": [
+            "power",
+            "tension",
+            "solemnity"
+        ]
+    },
+    "232,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/32.wav",
+        "mood/theme": [
+            "power",
+            "calmness",
+            "amazement"
+        ]
+    },
+    "233,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/33.wav",
+        "mood/theme": [
+            "tension",
+            "solemnity",
+            "power"
+        ]
+    },
+    "234,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/34.wav",
+        "mood/theme": [
+            "tension",
+            "solemnity",
+            "calmness"
+        ]
+    },
+    "235,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/35.wav",
+        "mood/theme": [
+            "calmness",
+            "solemnity",
+            "power"
+        ]
+    },
+    "236,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/36.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "power",
+            "tension"
+        ]
+    },
+    "237,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/37.wav",
+        "mood/theme": [
+            "solemnity",
+            "calmness",
+            "tension"
+        ]
+    },
+    "238,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/38.wav",
+        "mood/theme": [
+            "calmness",
+            "nostalgia",
+            "tension"
+        ]
+    },
+    "239,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/39.wav",
+        "mood/theme": [
+            "tension",
+            "joyful_activation",
+            "solemnity"
+        ]
+    },
+    "240,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/40.wav",
+        "mood/theme": [
+            "tension",
+            "solemnity",
+            "calmness"
+        ]
+    },
+    "241,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/41.wav",
+        "mood/theme": [
+            "solemnity",
+            "calmness",
+            "power"
+        ]
+    },
+    "242,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/42.wav",
+        "mood/theme": [
+            "nostalgia",
+            "calmness",
+            "solemnity"
+        ]
+    },
+    "243,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/43.wav",
+        "mood/theme": [
+            "power",
+            "tension",
+            "solemnity"
+        ]
+    },
+    "244,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/44.wav",
+        "mood/theme": [
+            "solemnity",
+            "sadness",
+            "tension"
+        ]
+    },
+    "245,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/45.wav",
+        "mood/theme": [
+            "tension",
+            "solemnity",
+            "power"
+        ]
+    },
+    "246,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/46.wav",
+        "mood/theme": [
+            "solemnity",
+            "power",
+            "tension"
+        ]
+    },
+    "247,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/47.wav",
+        "mood/theme": [
+            "calmness",
+            "solemnity",
+            "tension"
+        ]
+    },
+    "248,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/48.wav",
+        "mood/theme": [
+            "power",
+            "tension",
+            "solemnity"
+        ]
+    },
+    "249,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/49.wav",
+        "mood/theme": [
+            "calmness",
+            "solemnity",
+            "tenderness"
+        ]
+    },
+    "250,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/50.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "power",
+            "tension"
+        ]
+    },
+    "251,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/51.wav",
+        "mood/theme": [
+            "power",
+            "amazement",
+            "solemnity"
+        ]
+    },
+    "252,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/52.wav",
+        "mood/theme": [
+            "sadness",
+            "solemnity",
+            "nostalgia"
+        ]
+    },
+    "253,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/53.wav",
+        "mood/theme": [
+            "tension",
+            "solemnity",
+            "joyful_activation"
+        ]
+    },
+    "254,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/54.wav",
+        "mood/theme": [
+            "tension",
+            "joyful_activation",
+            "solemnity"
+        ]
+    },
+    "255,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/55.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "tension",
+            "power"
+        ]
+    },
+    "256,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/56.wav",
+        "mood/theme": [
+            "tension",
+            "power",
+            "sadness"
+        ]
+    },
+    "257,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/57.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "amazement",
+            "nostalgia"
+        ]
+    },
+    "258,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/58.wav",
+        "mood/theme": [
+            "calmness",
+            "tension",
+            "solemnity"
+        ]
+    },
+    "259,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/59.wav",
+        "mood/theme": [
+            "calmness",
+            "joyful_activation",
+            "tenderness"
+        ]
+    },
+    "260,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/60.wav",
+        "mood/theme": [
+            "tension",
+            "power",
+            "amazement"
+        ]
+    },
+    "261,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/61.wav",
+        "mood/theme": [
+            "tension",
+            "solemnity",
+            "calmness"
+        ]
+    },
+    "262,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/62.wav",
+        "mood/theme": [
+            "tension",
+            "sadness",
+            "solemnity"
+        ]
+    },
+    "263,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/63.wav",
+        "mood/theme": [
+            "sadness",
+            "calmness",
+            "tension"
+        ]
+    },
+    "264,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/64.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "tension",
+            "power"
+        ]
+    },
+    "265,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/65.wav",
+        "mood/theme": [
+            "solemnity",
+            "calmness",
+            "nostalgia"
+        ]
+    },
+    "266,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/66.wav",
+        "mood/theme": [
+            "tension",
+            "power",
+            "joyful_activation"
+        ]
+    },
+    "267,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/67.wav",
+        "mood/theme": [
+            "solemnity",
+            "calmness",
+            "tension"
+        ]
+    },
+    "268,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/68.wav",
+        "mood/theme": [
+            "tension",
+            "joyful_activation",
+            "power"
+        ]
+    },
+    "269,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/69.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "amazement",
+            "power"
+        ]
+    },
+    "270,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/70.wav",
+        "mood/theme": [
+            "calmness",
+            "nostalgia",
+            "solemnity"
+        ]
+    },
+    "271,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/71.wav",
+        "mood/theme": [
+            "power",
+            "joyful_activation",
+            "tension"
+        ]
+    },
+    "272,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/72.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "tension",
+            "amazement"
+        ]
+    },
+    "273,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/73.wav",
+        "mood/theme": [
+            "power",
+            "joyful_activation",
+            "solemnity"
+        ]
+    },
+    "274,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/74.wav",
+        "mood/theme": [
+            "calmness",
+            "tension",
+            "amazement"
+        ]
+    },
+    "275,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/75.wav",
+        "mood/theme": [
+            "tension",
+            "solemnity",
+            "power"
+        ]
+    },
+    "276,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/76.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "tension",
+            "power"
+        ]
+    },
+    "277,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/77.wav",
+        "mood/theme": [
+            "power",
+            "joyful_activation",
+            "tension"
+        ]
+    },
+    "278,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/78.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "nostalgia",
+            "power"
+        ]
+    },
+    "279,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/79.wav",
+        "mood/theme": [
+            "solemnity",
+            "calmness",
+            "tension"
+        ]
+    },
+    "280,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/80.wav",
+        "mood/theme": [
+            "solemnity",
+            "tension",
+            "nostalgia"
+        ]
+    },
+    "281,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/81.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "power",
+            "amazement"
+        ]
+    },
+    "282,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/82.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "tension",
+            "amazement"
+        ]
+    },
+    "283,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/83.wav",
+        "mood/theme": [
+            "calmness",
+            "solemnity",
+            "tension"
+        ]
+    },
+    "284,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/84.wav",
+        "mood/theme": [
+            "calmness",
+            "solemnity",
+            "joyful_activation"
+        ]
+    },
+    "285,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/85.wav",
+        "mood/theme": [
+            "calmness",
+            "nostalgia",
+            "solemnity"
+        ]
+    },
+    "286,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/86.wav",
+        "mood/theme": [
+            "tension",
+            "power",
+            "joyful_activation"
+        ]
+    },
+    "287,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/87.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "calmness",
+            "amazement"
+        ]
+    },
+    "288,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/88.wav",
+        "mood/theme": [
+            "calmness",
+            "solemnity",
+            "joyful_activation"
+        ]
+    },
+    "289,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/89.wav",
+        "mood/theme": [
+            "solemnity",
+            "calmness",
+            "sadness"
+        ]
+    },
+    "290,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/90.wav",
+        "mood/theme": [
+            "calmness",
+            "power",
+            "joyful_activation"
+        ]
+    },
+    "291,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/91.wav",
+        "mood/theme": [
+            "solemnity",
+            "calmness",
+            "nostalgia"
+        ]
+    },
+    "292,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/92.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "power",
+            "tension"
+        ]
+    },
+    "293,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/93.wav",
+        "mood/theme": [
+            "power",
+            "joyful_activation",
+            "tension"
+        ]
+    },
+    "294,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/94.wav",
+        "mood/theme": [
+            "calmness",
+            "amazement",
+            "solemnity"
+        ]
+    },
+    "295,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/95.wav",
+        "mood/theme": [
+            "calmness",
+            "sadness",
+            "solemnity"
+        ]
+    },
+    "296,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/96.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "calmness",
+            "tenderness"
+        ]
+    },
+    "297,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/97.wav",
+        "mood/theme": [
+            "solemnity",
+            "power",
+            "tension"
+        ]
+    },
+    "298,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/98.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "calmness",
+            "sadness"
+        ]
+    },
+    "299,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/99.wav",
+        "mood/theme": [
+            "solemnity",
+            "tension",
+            "calmness"
+        ]
+    },
+    "300,electronic": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/electronic/100.wav",
+        "mood/theme": [
+            "power",
+            "joyful_activation",
+            "tension"
+        ]
+    },
+    "301,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/1.wav",
+        "mood/theme": [
+            "tenderness",
+            "nostalgia",
+            "joyful_activation"
+        ]
+    },
+    "302,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/2.wav",
+        "mood/theme": [
+            "calmness",
+            "tenderness",
+            "nostalgia"
+        ]
+    },
+    "303,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/3.wav",
+        "mood/theme": [
+            "sadness",
+            "calmness",
+            "nostalgia"
+        ]
+    },
+    "304,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/4.wav",
+        "mood/theme": [
+            "solemnity",
+            "power",
+            "tension"
+        ]
+    },
+    "305,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/5.wav",
+        "mood/theme": [
+            "nostalgia",
+            "calmness",
+            "joyful_activation"
+        ]
+    },
+    "306,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/6.wav",
+        "mood/theme": [
+            "nostalgia",
+            "tenderness",
+            "calmness"
+        ]
+    },
+    "307,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/7.wav",
+        "mood/theme": [
+            "nostalgia",
+            "calmness",
+            "sadness"
+        ]
+    },
+    "308,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/8.wav",
+        "mood/theme": [
+            "calmness",
+            "tenderness",
+            "nostalgia"
+        ]
+    },
+    "309,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/9.wav",
+        "mood/theme": [
+            "calmness",
+            "nostalgia",
+            "sadness"
+        ]
+    },
+    "310,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/10.wav",
+        "mood/theme": [
+            "tenderness",
+            "nostalgia",
+            "calmness"
+        ]
+    },
+    "311,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/11.wav",
+        "mood/theme": [
+            "calmness",
+            "nostalgia",
+            "sadness"
+        ]
+    },
+    "312,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/12.wav",
+        "mood/theme": [
+            "sadness",
+            "nostalgia",
+            "calmness"
+        ]
+    },
+    "313,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/13.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "tension",
+            "power"
+        ]
+    },
+    "314,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/14.wav",
+        "mood/theme": [
+            "calmness",
+            "nostalgia",
+            "tenderness"
+        ]
+    },
+    "315,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/15.wav",
+        "mood/theme": [
+            "calmness",
+            "nostalgia",
+            "tenderness"
+        ]
+    },
+    "316,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/16.wav",
+        "mood/theme": [
+            "calmness",
+            "tenderness",
+            "nostalgia"
+        ]
+    },
+    "317,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/17.wav",
+        "mood/theme": [
+            "calmness",
+            "tenderness",
+            "solemnity"
+        ]
+    },
+    "318,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/18.wav",
+        "mood/theme": [
+            "power",
+            "solemnity",
+            "joyful_activation"
+        ]
+    },
+    "319,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/19.wav",
+        "mood/theme": [
+            "tension",
+            "solemnity",
+            "sadness"
+        ]
+    },
+    "320,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/20.wav",
+        "mood/theme": [
+            "solemnity",
+            "calmness",
+            "nostalgia"
+        ]
+    },
+    "321,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/21.wav",
+        "mood/theme": [
+            "power",
+            "joyful_activation",
+            "amazement"
+        ]
+    },
+    "322,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/22.wav",
+        "mood/theme": [
+            "calmness",
+            "nostalgia",
+            "sadness"
+        ]
+    },
+    "323,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/23.wav",
+        "mood/theme": [
+            "calmness",
+            "nostalgia",
+            "tension"
+        ]
+    },
+    "324,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/24.wav",
+        "mood/theme": [
+            "nostalgia",
+            "sadness",
+            "tenderness"
+        ]
+    },
+    "325,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/25.wav",
+        "mood/theme": [
+            "nostalgia",
+            "calmness",
+            "sadness"
+        ]
+    },
+    "326,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/26.wav",
+        "mood/theme": [
+            "calmness",
+            "tension",
+            "sadness"
+        ]
+    },
+    "327,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/27.wav",
+        "mood/theme": [
+            "tenderness",
+            "calmness",
+            "nostalgia"
+        ]
+    },
+    "328,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/28.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "tension",
+            "amazement"
+        ]
+    },
+    "329,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/29.wav",
+        "mood/theme": [
+            "nostalgia",
+            "sadness",
+            "joyful_activation"
+        ]
+    },
+    "330,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/30.wav",
+        "mood/theme": [
+            "tenderness",
+            "calmness",
+            "nostalgia"
+        ]
+    },
+    "331,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/31.wav",
+        "mood/theme": [
+            "sadness",
+            "nostalgia",
+            "tension"
+        ]
+    },
+    "332,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/32.wav",
+        "mood/theme": [
+            "tenderness",
+            "nostalgia",
+            "sadness"
+        ]
+    },
+    "333,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/33.wav",
+        "mood/theme": [
+            "calmness",
+            "tenderness",
+            "nostalgia"
+        ]
+    },
+    "334,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/34.wav",
+        "mood/theme": [
+            "nostalgia",
+            "tenderness",
+            "calmness"
+        ]
+    },
+    "335,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/35.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "power",
+            "solemnity"
+        ]
+    },
+    "336,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/36.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "power",
+            "tension"
+        ]
+    },
+    "337,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/37.wav",
+        "mood/theme": [
+            "nostalgia",
+            "calmness",
+            "solemnity"
+        ]
+    },
+    "338,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/38.wav",
+        "mood/theme": [
+            "nostalgia",
+            "calmness",
+            "sadness"
+        ]
+    },
+    "339,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/39.wav",
+        "mood/theme": [
+            "tension",
+            "solemnity",
+            "nostalgia"
+        ]
+    },
+    "340,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/40.wav",
+        "mood/theme": [
+            "tension",
+            "solemnity",
+            "calmness"
+        ]
+    },
+    "341,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/41.wav",
+        "mood/theme": [
+            "nostalgia",
+            "tenderness",
+            "joyful_activation"
+        ]
+    },
+    "342,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/42.wav",
+        "mood/theme": [
+            "calmness",
+            "nostalgia",
+            "sadness"
+        ]
+    },
+    "343,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/43.wav",
+        "mood/theme": [
+            "power",
+            "joyful_activation",
+            "tension"
+        ]
+    },
+    "344,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/44.wav",
+        "mood/theme": [
+            "tension",
+            "joyful_activation",
+            "calmness"
+        ]
+    },
+    "345,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/45.wav",
+        "mood/theme": [
+            "calmness",
+            "nostalgia",
+            "joyful_activation"
+        ]
+    },
+    "346,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/46.wav",
+        "mood/theme": [
+            "solemnity",
+            "calmness",
+            "power"
+        ]
+    },
+    "347,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/47.wav",
+        "mood/theme": [
+            "calmness",
+            "joyful_activation",
+            "tenderness"
+        ]
+    },
+    "348,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/48.wav",
+        "mood/theme": [
+            "tension",
+            "tenderness",
+            "nostalgia"
+        ]
+    },
+    "349,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/49.wav",
+        "mood/theme": [
+            "tension",
+            "joyful_activation",
+            "power"
+        ]
+    },
+    "350,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/50.wav",
+        "mood/theme": [
+            "tenderness",
+            "nostalgia",
+            "calmness"
+        ]
+    },
+    "351,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/51.wav",
+        "mood/theme": [
+            "nostalgia",
+            "tenderness",
+            "calmness"
+        ]
+    },
+    "352,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/52.wav",
+        "mood/theme": [
+            "tenderness",
+            "calmness",
+            "nostalgia"
+        ]
+    },
+    "353,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/53.wav",
+        "mood/theme": [
+            "calmness",
+            "tenderness",
+            "nostalgia"
+        ]
+    },
+    "354,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/54.wav",
+        "mood/theme": [
+            "calmness",
+            "nostalgia",
+            "solemnity"
+        ]
+    },
+    "355,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/55.wav",
+        "mood/theme": [
+            "tenderness",
+            "nostalgia",
+            "amazement"
+        ]
+    },
+    "356,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/56.wav",
+        "mood/theme": [
+            "calmness",
+            "joyful_activation",
+            "tenderness"
+        ]
+    },
+    "357,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/57.wav",
+        "mood/theme": [
+            "calmness",
+            "amazement",
+            "nostalgia"
+        ]
+    },
+    "358,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/58.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "tension",
+            "power"
+        ]
+    },
+    "359,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/59.wav",
+        "mood/theme": [
+            "sadness",
+            "tenderness",
+            "solemnity"
+        ]
+    },
+    "360,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/60.wav",
+        "mood/theme": [
+            "calmness",
+            "tension",
+            "solemnity"
+        ]
+    },
+    "361,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/61.wav",
+        "mood/theme": [
+            "tension",
+            "sadness",
+            "solemnity"
+        ]
+    },
+    "362,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/62.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "power",
+            "amazement"
+        ]
+    },
+    "363,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/63.wav",
+        "mood/theme": [
+            "nostalgia",
+            "joyful_activation",
+            "amazement"
+        ]
+    },
+    "364,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/64.wav",
+        "mood/theme": [
+            "calmness",
+            "sadness",
+            "nostalgia"
+        ]
+    },
+    "365,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/65.wav",
+        "mood/theme": [
+            "tenderness",
+            "calmness",
+            "sadness"
+        ]
+    },
+    "366,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/66.wav",
+        "mood/theme": [
+            "nostalgia",
+            "tenderness",
+            "sadness"
+        ]
+    },
+    "367,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/67.wav",
+        "mood/theme": [
+            "sadness",
+            "tension",
+            "solemnity"
+        ]
+    },
+    "368,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/68.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "tenderness",
+            "calmness"
+        ]
+    },
+    "369,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/69.wav",
+        "mood/theme": [
+            "calmness",
+            "joyful_activation",
+            "tenderness"
+        ]
+    },
+    "370,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/70.wav",
+        "mood/theme": [
+            "nostalgia",
+            "sadness",
+            "calmness"
+        ]
+    },
+    "371,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/71.wav",
+        "mood/theme": [
+            "power",
+            "joyful_activation",
+            "tension"
+        ]
+    },
+    "372,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/72.wav",
+        "mood/theme": [
+            "tenderness",
+            "calmness",
+            "nostalgia"
+        ]
+    },
+    "373,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/73.wav",
+        "mood/theme": [
+            "calmness",
+            "nostalgia",
+            "tenderness"
+        ]
+    },
+    "374,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/74.wav",
+        "mood/theme": [
+            "nostalgia",
+            "tenderness",
+            "calmness"
+        ]
+    },
+    "375,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/75.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "calmness",
+            "nostalgia"
+        ]
+    },
+    "376,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/76.wav",
+        "mood/theme": [
+            "tenderness",
+            "nostalgia",
+            "calmness"
+        ]
+    },
+    "377,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/77.wav",
+        "mood/theme": [
+            "power",
+            "joyful_activation",
+            "nostalgia"
+        ]
+    },
+    "378,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/78.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "nostalgia",
+            "calmness"
+        ]
+    },
+    "379,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/79.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "nostalgia",
+            "tension"
+        ]
+    },
+    "380,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/80.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "tension",
+            "sadness"
+        ]
+    },
+    "381,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/81.wav",
+        "mood/theme": [
+            "calmness",
+            "nostalgia",
+            "tenderness"
+        ]
+    },
+    "382,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/82.wav",
+        "mood/theme": [
+            "nostalgia",
+            "power",
+            "joyful_activation"
+        ]
+    },
+    "383,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/83.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "tenderness",
+            "amazement"
+        ]
+    },
+    "384,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/84.wav",
+        "mood/theme": [
+            "calmness",
+            "joyful_activation",
+            "tenderness"
+        ]
+    },
+    "385,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/85.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "amazement",
+            "power"
+        ]
+    },
+    "386,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/86.wav",
+        "mood/theme": [
+            "amazement",
+            "tension",
+            "nostalgia"
+        ]
+    },
+    "387,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/87.wav",
+        "mood/theme": [
+            "tension",
+            "power",
+            "joyful_activation"
+        ]
+    },
+    "388,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/88.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "amazement",
+            "tenderness"
+        ]
+    },
+    "389,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/89.wav",
+        "mood/theme": [
+            "tenderness",
+            "calmness",
+            "sadness"
+        ]
+    },
+    "390,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/90.wav",
+        "mood/theme": [
+            "nostalgia",
+            "joyful_activation",
+            "power"
+        ]
+    },
+    "391,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/91.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "amazement",
+            "power"
+        ]
+    },
+    "392,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/92.wav",
+        "mood/theme": [
+            "calmness",
+            "tenderness",
+            "nostalgia"
+        ]
+    },
+    "393,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/93.wav",
+        "mood/theme": [
+            "solemnity",
+            "calmness",
+            "nostalgia"
+        ]
+    },
+    "394,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/94.wav",
+        "mood/theme": [
+            "power",
+            "joyful_activation",
+            "tension"
+        ]
+    },
+    "395,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/95.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "amazement",
+            "tenderness"
+        ]
+    },
+    "396,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/96.wav",
+        "mood/theme": [
+            "nostalgia",
+            "calmness",
+            "amazement"
+        ]
+    },
+    "397,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/97.wav",
+        "mood/theme": [
+            "sadness",
+            "power",
+            "tension"
+        ]
+    },
+    "398,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/98.wav",
+        "mood/theme": [
+            "joyful_activation",
+            "nostalgia",
+            "amazement"
+        ]
+    },
+    "399,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/99.wav",
+        "mood/theme": [
+            "calmness",
+            "tenderness",
+            "nostalgia"
+        ]
+    },
+    "400,pop": {
+        "path": "/renhangx/alignment/datasets/emotifymusic_wav/pop/100.wav",
+        "mood/theme": [
+            "tension",
+            "sadness",
+            "nostalgia"
+        ]
+    }
+}

@@ -1,0 +1,6 @@
+# @package _global_
+
+defaults:
+  - override /model: mse_multi
+
+dataset_target: data.segmented_dataset.PreprocessedSegmentedDataset

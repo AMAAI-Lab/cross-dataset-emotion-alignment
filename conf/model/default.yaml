@@ -1,0 +1,32 @@
+defaults:
+  - net: attention
+  - _self_
+
+_target_: src.models.model.Module
+optimizer:
+  _target_: torch.optim.AdamW
+  _partial_: true
+  lr: 1e-4
+  weight_decay: 0.01
+
+scheduler:
+  _target_: torch.optim.lr_scheduler.ReduceLROnPlateau
+  _partial_: true
+
+  cooldown: 5
+  mode: max
+  factor: 0.2
+  patience: 10
+  min_lr: 1.6e-7
+
+compile: true
+
+dataset_label_paths:
+  - ${data.datasets_info.mtg.train.label_features_path}
+  - ${data.datasets_info.CAL500.label_features_path}
+  - ${data.datasets_info.emotify.label_features_path}
+
+top_k_list:
+  - 2
+  - 4
+  - 3

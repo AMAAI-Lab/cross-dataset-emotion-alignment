@@ -1,0 +1,26 @@
+# @package _global_
+defaults:
+  - /experiment: label_aug
+  - _self_
+
+model:
+  regularization_alpha: 2.5
+  regularization_version: v2
+
+data:
+  train_combine_mode: max_size
+  combine_train_datasets: [mtg, CAL500]
+  datasets_info:
+    mtg:
+      train:
+        combined_map_path: clusters/mtg_CAL500/label_map.json
+      val:
+        combined_map_path: clusters/mtg_CAL500/label_map.json
+      test:
+        combined_map_path: clusters/mtg_CAL500/label_map.json
+    CAL500:
+      combined_map_path: clusters/mtg_CAL500/label_map.json
+
+logger:
+  wandb:
+    name: REG_${model.regularization_alpha}_${model.regularization_version}_${data.combine_train_datasets}_${hydra:runtime.choices.loss_type}_${hydra:runtime.choices.model/net}_${model.net.num_layers}layers_${model.optimizer.lr}lr_${version}

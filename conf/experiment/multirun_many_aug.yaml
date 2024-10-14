@@ -1,0 +1,9 @@
+# @package _global_
+defaults:
+  - label_aug
+  - multirun_many
+  - _self_
+
+logger:
+  wandb:
+    name: Aug_${data.combine_train_datasets}_${hydra:runtime.choices.loss_type}_${hydra:runtime.choices.model/net}_${model.net.num_layers}layers_${model.optimizer.lr}lr${version}

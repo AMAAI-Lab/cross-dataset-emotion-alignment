@@ -1,0 +1,22 @@
+# @package _global_
+defaults:
+  - default
+  - _self_
+
+data:
+  train_combine_mode: max_size
+  combine_train_datasets: [CAL500, emotify]
+  datasets_info:
+    mtg:
+      train:
+        label_features_path: resources/label_expanded_jamendo.npz
+      val:
+        label_features_path: resources/label_expanded_jamendo.npz
+      test:
+        label_features_path: resources/label_expanded_jamendo.npz
+    CAL500:
+      label_features_path: clusters/CAL500_emotify/CAL500_cluster_centers.npz
+      map_path: clusters/CAL500_emotify/CAL500_label_map.json
+    emotify:
+      label_features_path: clusters/CAL500_emotify/emotify_cluster_centers.npz
+      map_path: clusters/CAL500_emotify/emotify_label_map.json

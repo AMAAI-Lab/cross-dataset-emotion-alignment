@@ -1,0 +1,17 @@
+defaults:
+  - default
+  - dataset@train_dataset: mtg_train
+  - dataset@val_dataset: mtg_val
+  - dataset@test_dataset: mtg_test
+  - _self_
+
+_target_: data.segmented_datamodule.BaseSegmentedDataModule
+
+train_dataset:
+  _target_: ${dataset_target}
+
+val_dataset:
+  _target_: ${dataset_target}
+
+test_dataset:
+  _target_: ${dataset_target}

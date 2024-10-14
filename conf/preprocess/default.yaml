@@ -1,0 +1,4 @@
+audio:
+  duration: 10
+  processor: "m-a-p/MERT-v1-95M"
+  encoder: "m-a-p/MERT-v1-95M"

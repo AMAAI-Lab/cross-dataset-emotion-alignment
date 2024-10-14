@@ -1,0 +1,35 @@
+# @package _global_
+hydra:
+  sweeper:
+    params:
+      # 1. MSE/Triplet
+      +loss_type: mse,triplet
+
+      # 2. Attention/Linear
+      model/net: linear,attention
+      # model/net: attention
+
+      # 3. Number of layers of net
+      model.net.num_layers: 1
+
+      # 4. Dataset combinations
+      # data.combine_train_datasets: choice(["mtg", "CAL500"], ["mtg", "emotify"], ["CAL500", "emotify"], ["mtg", "CAL500", "emotify"])
+      data.combine_train_datasets: choice([mtg], [CAL500], [emotify], [mtg, CAL500], [mtg, emotify], [CAL500, emotify], [mtg, CAL500, emotify])
+      # data.combine_train_datasets: choice([mtg], [CAL500], [emotify])
+
+      # 5. Training set combine mode
+      # data.train_combine_mode: max_size,max_size_cycle
+      data.train_combine_mode: max_size_cycle
+
+      # 6. Learning rate
+      # model.optimizer.lr: 5e-3,1e-3,5e-4
+      model.optimizer.lr: 5e-3
+
+trainer:
+  max_epochs: 2
+
+model:
+  scheduler:
+    pct_start: 0.5
+
+~logger:

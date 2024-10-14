@@ -1,0 +1,24 @@
+# @package _global_
+defaults:
+  - default
+  - _self_
+
+data:
+  train_combine_mode: max_size
+  combine_train_datasets: [mtg, emotify]
+  datasets_info:
+    mtg:
+      train:
+        label_features_path: clusters/mtg_emotify/mtg_cluster_centers.npz
+        map_path: clusters/mtg_emotify/mtg_label_map.json
+      val:
+        label_features_path: clusters/mtg_emotify/mtg_cluster_centers.npz
+        map_path: clusters/mtg_emotify/mtg_label_map.json
+      test:
+        label_features_path: clusters/mtg_emotify/mtg_cluster_centers.npz
+        map_path: clusters/mtg_emotify/mtg_label_map.json
+    emotify:
+      label_features_path: clusters/mtg_emotify/emotify_cluster_centers.npz
+      map_path: clusters/mtg_emotify/emotify_label_map.json
+    CAL500:
+      label_features_path: resources/label_expanded_CAL500.npz

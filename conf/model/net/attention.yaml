@@ -1,0 +1,4 @@
+_target_: src.models.net.MusicMoodModelWithAttention
+d_model: 768
+output_size: 384
+num_layers: 2

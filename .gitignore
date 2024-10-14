@@ -1,0 +1,13 @@
+prompt/
+datasets/
+__pycache__/
+**/wandb/
+**/*.pt*
+**/checkpoint*/
+*.code-workspace
+.cursorignore
+outputs/
+multirun/
+logs/
+mtg-jamendo-dataset/
+.vscode/

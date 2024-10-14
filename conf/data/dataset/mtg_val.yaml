@@ -1,0 +1,8 @@
+defaults:
+  - mtg_default
+  - _self_
+
+source_path: resources/input/mtg_validation_source.npy
+index_path: resources/input/mtg_validation_index.npy
+metadata_path: resources/jamendo-validation.json
+mode: train

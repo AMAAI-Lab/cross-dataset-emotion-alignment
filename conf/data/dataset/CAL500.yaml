@@ -1,0 +1,7 @@
+_target_: ${dataset_target}
+source_path: resources/input/CAL500_source.npy
+index_path: resources/input/CAL500_index.npy
+metadata_path: resources/CAL500_metadata.json
+label_features_path: resources/CAL500_label_features_corrected.npz
+mode: ${mode}
+upsample: 2

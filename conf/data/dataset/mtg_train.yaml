@@ -1,0 +1,7 @@
+defaults:
+  - mtg_default
+  - _self_
+source_path: resources/input/mtg_train_source.npy
+index_path: resources/input/mtg_train_index.npy
+metadata_path: resources/jamendo-train.json
+mode: train

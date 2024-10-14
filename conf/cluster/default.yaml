@@ -1,0 +1,4 @@
+# @package _global_
+logger:
+  wandb:
+    name: CLUSTER_${data.combine_train_datasets}_${hydra:runtime.choices.loss_type}_${hydra:runtime.choices.model/net}_${model.net.num_layers}layers_${model.optimizer.lr}lr_${version}
