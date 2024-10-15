@@ -44,12 +44,6 @@ This repository contains the implementation of our novel approach to music emoti
    conda activate cross-dataset-emotion-alignment
    ```
 
-3. Activate the environment:
-
-   ```bash
-   conda activate llm-music-emotion
-   ```
-
 ## Data Preparation
 
 1. Option A: Download the MTG-Jamendo, CAL500, and Emotify datasets and place them in the `data/` directory.
