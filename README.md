@@ -5,7 +5,7 @@
 <a href="https://huggingface.co/datasets/amaai-lab/cross-dataset-emotion-splits">Dataset Splits</a>
 <br/><br/>
 
-[![Hugging Face Dataset Splits](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/amaai-lab/cross-dataset-emotion-splits) [![arXiv](https://img.shields.io/badge/arXiv-2406.02255-brightgreen.svg)](https://arxiv.org/abs/XXXX.XXXX)
+[![Hugging Face Dataset Splits](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/amaai-lab/cross-dataset-emotion-splits) [![arXiv](https://img.shields.io/badge/arXiv-2406.02255-brightgreen.svg)](https://arxiv.org/abs/2410.11522)
 
 </div>
 
