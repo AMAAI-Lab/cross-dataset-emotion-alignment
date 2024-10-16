@@ -1,7 +1,7 @@
 # Leveraging LLM Embeddings for Cross-Dataset Label Alignment and Zero-Shot Music Emotion Prediction
 
 <div align="center">
-<a href="https://arxiv.org/abs/XXXX.XXXX">Paper</a> |
+<a href="https://arxiv.org/pdf/2410.11522v1">Paper</a> |
 <a href="https://huggingface.co/datasets/amaai-lab/cross-dataset-emotion-splits">Dataset Splits</a>
 <br/><br/>
 
